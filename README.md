@@ -14,11 +14,11 @@ Implement the K-Means clustering algorithm from scratch.
 Analyze and interpret customer segments for actionable insights.
 
 Technologies Used
-Technology	Purpose
-Java	Core implementation
-Eclipse IDE	Development environment
-CSV	Input dataset
-K-Means Clustering	Unsupervised machine learning technique
+Technology	                   Purpose
+Java	                         Core implementation
+Eclipse IDE	                   Development environment
+CSV                            Input dataset
+K-Means Clustering	           Unsupervised machine learning technique
 
 Algorithm: K-Means Clustering (Manual Implementation)
 This project does not use any external machine learning libraries. All components of the K-Means algorithm were manually coded in Java to demonstrate an in-depth understanding of its working principles.
@@ -48,12 +48,19 @@ No use of external ML libraries (e.g., Weka, scikit-learn).
 Final cluster allocations are printed as output.
 
 File Structure
+
 CustomerS_ClickStream/
 ├── clickstream_data.csv            # Input dataset
 ├── Consumer_Segmentation.java      # Core clustering logic
 ├── .project / .classpath           # Eclipse project configuration
 └── src/                            # Source directory
-
+Sample Output
+css
+Copy
+Edit
+Data Point (115.0, 4.2) assigned to Cluster 2
+Data Point (72.0, 1.8) assigned to Cluster 0
+...
 Applications
 Customer segmentation
 
@@ -67,6 +74,8 @@ Behavioral targeting
 
 How to Run
 Clone this repository:
+
+
 git clone https://github.com/MadhuraMeenakshiMutakoduru/CLICKSTREAM-CONSUMER-SEGMENTATION.git
 Open the project in Eclipse IDE.
 
@@ -76,3 +85,4 @@ Execute the Consumer_Segmentation.java file.
 
 Author
 Madhura Meenakshi Mutakoduru
+LinkedIn: Madhura Meenakshi Mutakoduru
