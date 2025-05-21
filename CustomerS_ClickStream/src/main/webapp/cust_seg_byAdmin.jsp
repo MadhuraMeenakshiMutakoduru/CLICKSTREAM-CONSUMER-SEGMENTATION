@@ -1,0 +1,61 @@
+<%@page import="com.clickstream.utils.CustomerData"%>
+<%@page import="com.eazydeals.dao.AdminDao"%>
+<%@page errorPage="error_exception.jsp"%>
+
+<%
+Admin activeAdmin = (Admin) session.getAttribute("activeAdmin");
+if (activeAdmin == null) {
+	Message message = new Message("You are not logged in! Login first!!", "error", "alert-danger");
+	session.setAttribute("message", message);
+	response.sendRedirect("adminlogin.jsp");
+	return;
+}
+AdminDao adminDao = new AdminDao(ConnectionProvider.getConnection());
+List<Admin> adminList = adminDao.getAllAdmin();
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>View Admin's</title>
+<%@include file="Components/common_css_js.jsp"%>
+<style>
+label {
+	font-weight: bold;
+}
+</style>
+</head>
+<body>
+	<!--navbar -->
+	<%@include file="Components/navbar.jsp"%>
+
+	<div class="container-fluid px-5 py-3">
+		<div class="row">
+			<div class="col-md-4">
+				<div class="card">
+					<div class="card-body px-3" al>
+						
+						<%@include file="Components/alert_message.jsp"%>
+
+						<!--admin-form-->
+						
+					</div>
+
+				</div>
+			</div>
+			
+		</div>
+		
+		<div class="container">
+			<div class="row px-3">
+				<div class="col-md-4 offset-md-2">
+					
+						<div class="card text-bg-light mb-3 text-center">
+							<%@include file="customer_seg_result.jsp"%>
+
+						</div>
+				</div>
+				</div>
+	</div>
+</body>
+</html>

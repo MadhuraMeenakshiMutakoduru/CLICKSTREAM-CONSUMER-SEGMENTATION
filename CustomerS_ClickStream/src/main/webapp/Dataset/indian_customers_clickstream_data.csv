@@ -1,0 +1,1001 @@
+Shopping ID,Customer Name,Age,Gender,Income Level,Purchase Frequency,Loyalty Level,Region,Lifestyle,Product Preference,Pages Visited,Time on Site (mins),Products Clicked,Categories Explored,Exit Page,Purchase Intent
+1001,Rahul Deshmukh,29,Female,Middle,One-time,New,Kolkata,Health Conscious,Electronics,16,14,3,"Fitness Equipment, Home Appliances",Checkout,2
+1002,Neha Gupta,51,Male,Middle,Occasional,Lost,Jaipur,Fitness Enthusiast,Electronics,4,37,3,Electronics,Category Page,1
+1003,Neha Gupta,51,Male,High,Occasional,Lost,Mumbai,Luxury Shopper,Fitness Equipment,3,48,8,"Fashion, Fitness Equipment",Product Page,3
+1004,Rahul Deshmukh,19,Male,High,Occasional,Loyal,Jaipur,Bargain Hunter,Health Supplements,15,33,5,"Clothing, Fashion, Fitness Equipment",Checkout,4
+1005,Kavita Joshi,56,Male,High,Occasional,Lost,Hyderabad,Luxury Shopper,Fitness Equipment,7,36,3,Electronics,Category Page,3
+1006,Priya Sharma,22,Male,Middle,Occasional,New,Ahmedabad,Fitness Enthusiast,Fashion,4,45,10,"Electronics, Fitness Equipment",Product Page,5
+1007,Rajesh Kumar,39,Female,Middle,Frequent,Loyal,Delhi,Health Conscious,Electronics,14,39,2,"Health Supplements, Clothing",Product Page,1
+1008,Rajesh Kumar,38,Female,Middle,One-time,New,Ahmedabad,Fitness Enthusiast,Fitness Equipment,10,21,4,Health Supplements,Checkout,1
+1009,Pooja Mehta,22,Male,Low,One-time,Lost,Kolkata,Bargain Hunter,Electronics,11,30,9,Health Supplements,Category Page,5
+1010,Kavita Joshi,19,Male,Middle,Occasional,New,Delhi,Fashion Enthusiast,Outdoor Gear,8,43,7,"Outdoor Gear, Electronics, Fashion",Checkout,5
+1011,Priya Sharma,22,Female,Low,One-time,Lost,Nagpur,Bargain Hunter,Outdoor Gear,16,24,2,Home Appliances,Checkout,3
+1012,Suresh Iyer,19,Female,High,Frequent,Loyal,Kolkata,Luxury Shopper,Health Supplements,9,28,7,"Electronics, Home Appliances, Health Supplements",Product Page,3
+1013,Priya Sharma,49,Male,Middle,One-time,New,Bangalore,Health Conscious,Outdoor Gear,17,30,7,"Outdoor Gear, Fashion, Home Appliances",Category Page,5
+1014,Amit Patel,27,Male,High,Frequent,Lost,Bangalore,Fashion Enthusiast,Fashion,14,10,7,"Outdoor Gear, Health Supplements",Category Page,4
+1015,Vikram Reddy,19,Male,High,One-time,Loyal,Ahmedabad,Luxury Shopper,Health Supplements,10,54,8,Outdoor Gear,Product Page,1
+1016,Rajesh Kumar,27,Male,Middle,Frequent,Loyal,Delhi,Fitness Enthusiast,Clothing,19,22,5,Outdoor Gear,Category Page,5
+1017,Pooja Mehta,57,Male,Middle,Frequent,Loyal,Kolkata,Fashion Enthusiast,Fitness Equipment,5,36,1,"Clothing, Fitness Equipment, Outdoor Gear",Checkout,3
+1018,Vikram Reddy,59,Male,Middle,One-time,New,Delhi,Health Conscious,Fitness Equipment,6,38,6,Fashion,Checkout,4
+1019,Neha Gupta,51,Male,Middle,Frequent,Lost,Ahmedabad,Fitness Enthusiast,Outdoor Gear,17,19,6,Electronics,Product Page,2
+1020,Priya Sharma,44,Female,Low,Frequent,Lost,Ahmedabad,Bargain Hunter,Electronics,6,52,6,"Fitness Equipment, Electronics, Clothing",Checkout,5
+1021,Priya Sharma,44,Male,Middle,Frequent,Lost,Hyderabad,Adventure Seeker,Fashion,5,54,9,Health Supplements,Product Page,5
+1022,Amit Patel,53,Male,Low,Frequent,Lost,Pune,Health Conscious,Electronics,8,40,6,"Fitness Equipment, Clothing",Category Page,3
+1023,Amit Patel,38,Female,High,Occasional,Loyal,Kolkata,Bargain Hunter,Home Appliances,12,39,5,Fashion,Checkout,1
+1024,Rahul Deshmukh,43,Male,High,Occasional,New,Pune,Luxury Shopper,Outdoor Gear,5,31,6,"Fashion, Electronics, Clothing",Checkout,4
+1025,Priya Sharma,19,Female,Middle,Frequent,New,Pune,Luxury Shopper,Fitness Equipment,3,16,9,"Fashion, Home Appliances, Outdoor Gear",Product Page,4
+1026,Rahul Deshmukh,51,Female,Low,One-time,Lost,Nagpur,Adventure Seeker,Health Supplements,10,15,4,"Health Supplements, Clothing, Home Appliances",Category Page,2
+1027,Anjali Verma,18,Female,High,One-time,Loyal,Bangalore,Fitness Enthusiast,Outdoor Gear,5,45,7,Fashion,Checkout,2
+1028,Vikram Reddy,50,Male,High,Frequent,Loyal,Bangalore,Luxury Shopper,Home Appliances,9,30,8,"Health Supplements, Fashion, Clothing",Product Page,4
+1029,Anjali Verma,21,Female,Low,One-time,Lost,Ahmedabad,Bargain Hunter,Home Appliances,15,30,2,"Clothing, Health Supplements, Outdoor Gear",Checkout,3
+1030,Kavita Joshi,38,Female,High,Occasional,Lost,Pune,Fashion Enthusiast,Electronics,4,49,9,Home Appliances,Product Page,4
+1031,Kavita Joshi,33,Female,Middle,Frequent,New,Nagpur,Health Conscious,Home Appliances,5,24,4,"Fitness Equipment, Home Appliances, Electronics",Checkout,2
+1032,Suresh Iyer,56,Female,High,Occasional,New,Ahmedabad,Bargain Hunter,Electronics,4,41,10,Health Supplements,Product Page,2
+1033,Kavita Joshi,55,Female,High,Frequent,Lost,Pune,Fitness Enthusiast,Electronics,14,44,8,Health Supplements,Checkout,5
+1034,Kavita Joshi,52,Female,High,Occasional,New,Pune,Tech Savvy,Clothing,4,12,10,"Clothing, Fashion",Category Page,4
+1035,Pooja Mehta,42,Male,High,Frequent,Lost,Delhi,Health Conscious,Electronics,16,27,6,Electronics,Category Page,3
+1036,Neha Gupta,31,Male,Low,One-time,New,Delhi,Health Conscious,Home Appliances,5,19,7,"Home Appliances, Electronics",Product Page,3
+1037,Amit Patel,24,Male,High,One-time,Lost,Mumbai,Fitness Enthusiast,Fitness Equipment,15,50,7,Home Appliances,Category Page,5
+1038,Suresh Iyer,34,Male,Middle,Occasional,Lost,Kolkata,Fitness Enthusiast,Fitness Equipment,9,14,7,Health Supplements,Category Page,4
+1039,Suresh Iyer,23,Male,Middle,Frequent,Lost,Nagpur,Health Conscious,Electronics,16,25,9,"Home Appliances, Outdoor Gear",Checkout,5
+1040,Rahul Deshmukh,41,Male,Low,Frequent,Loyal,Nagpur,Health Conscious,Clothing,17,6,4,"Fashion, Electronics, Fitness Equipment",Category Page,5
+1041,Anjali Verma,52,Female,Low,One-time,New,Jaipur,Fitness Enthusiast,Health Supplements,6,20,9,"Fashion, Clothing, Outdoor Gear",Product Page,3
+1042,Vikram Reddy,52,Female,Low,One-time,New,Ahmedabad,Fitness Enthusiast,Health Supplements,18,32,8,"Clothing, Outdoor Gear",Checkout,5
+1043,Anjali Verma,30,Male,High,Occasional,Loyal,Nagpur,Luxury Shopper,Fitness Equipment,12,37,5,"Outdoor Gear, Electronics",Checkout,1
+1044,Rajesh Kumar,42,Female,Middle,Frequent,Loyal,Ahmedabad,Fitness Enthusiast,Clothing,20,18,2,Fashion,Category Page,2
+1045,Suresh Iyer,44,Male,Low,Occasional,Lost,Hyderabad,Bargain Hunter,Fitness Equipment,16,17,10,"Outdoor Gear, Electronics, Fitness Equipment",Product Page,2
+1046,Priya Sharma,24,Female,Low,One-time,Lost,Ahmedabad,Luxury Shopper,Electronics,20,12,8,"Fashion, Fitness Equipment",Checkout,1
+1047,Kavita Joshi,22,Male,Low,Occasional,Lost,Chennai,Bargain Hunter,Electronics,15,50,10,"Electronics, Fashion",Category Page,4
+1048,Vikram Reddy,26,Female,Middle,One-time,Loyal,Delhi,Bargain Hunter,Fitness Equipment,6,6,6,Outdoor Gear,Checkout,2
+1049,Suresh Iyer,46,Female,Middle,Occasional,Lost,Mumbai,Luxury Shopper,Clothing,7,59,3,"Fashion, Electronics, Clothing",Checkout,1
+1050,Rajesh Kumar,53,Female,High,Frequent,Lost,Jaipur,Fashion Enthusiast,Outdoor Gear,13,15,9,"Home Appliances, Electronics, Fitness Equipment",Category Page,5
+1051,Priya Sharma,19,Female,Low,Occasional,Lost,Delhi,Tech Savvy,Fitness Equipment,17,33,4,"Fashion, Outdoor Gear, Home Appliances",Product Page,1
+1052,Vikram Reddy,24,Male,Middle,Occasional,New,Ahmedabad,Bargain Hunter,Fashion,14,9,1,"Fitness Equipment, Home Appliances",Category Page,1
+1053,Vikram Reddy,22,Male,High,Frequent,Loyal,Nagpur,Luxury Shopper,Home Appliances,4,38,8,"Fitness Equipment, Outdoor Gear",Checkout,4
+1054,Rajesh Kumar,45,Male,Low,One-time,New,Delhi,Luxury Shopper,Clothing,11,16,2,Outdoor Gear,Category Page,2
+1055,Priya Sharma,55,Female,High,Occasional,Lost,Chennai,Luxury Shopper,Health Supplements,20,42,4,"Health Supplements, Electronics",Checkout,4
+1056,Priya Sharma,27,Male,High,Occasional,Lost,Pune,Tech Savvy,Clothing,18,48,7,"Electronics, Health Supplements",Product Page,1
+1057,Rahul Deshmukh,25,Female,Middle,Frequent,Loyal,Nagpur,Luxury Shopper,Fitness Equipment,18,8,1,"Outdoor Gear, Electronics",Checkout,5
+1058,Anjali Verma,30,Female,Middle,Frequent,Lost,Pune,Luxury Shopper,Health Supplements,6,36,3,"Clothing, Health Supplements",Product Page,4
+1059,Pooja Mehta,34,Male,Low,One-time,Lost,Hyderabad,Bargain Hunter,Home Appliances,15,31,5,"Clothing, Health Supplements, Electronics",Product Page,4
+1060,Pooja Mehta,19,Male,Low,Frequent,Loyal,Ahmedabad,Luxury Shopper,Health Supplements,5,37,6,"Fashion, Home Appliances",Product Page,5
+1061,Vikram Reddy,19,Male,Middle,One-time,Loyal,Jaipur,Health Conscious,Electronics,8,49,5,Electronics,Category Page,5
+1062,Rajesh Kumar,58,Female,Low,Occasional,Loyal,Chennai,Bargain Hunter,Fitness Equipment,17,5,3,"Home Appliances, Fitness Equipment, Outdoor Gear",Category Page,3
+1063,Rajesh Kumar,40,Male,High,One-time,New,Hyderabad,Fashion Enthusiast,Fitness Equipment,8,38,1,Home Appliances,Checkout,1
+1064,Anjali Verma,44,Male,High,Frequent,Lost,Hyderabad,Health Conscious,Home Appliances,13,15,4,"Fashion, Health Supplements, Home Appliances",Checkout,3
+1065,Amit Patel,30,Female,Middle,One-time,Loyal,Pune,Tech Savvy,Outdoor Gear,12,35,6,"Health Supplements, Home Appliances",Category Page,4
+1066,Anjali Verma,38,Male,High,Frequent,New,Ahmedabad,Health Conscious,Clothing,12,17,1,"Clothing, Fashion",Category Page,5
+1067,Suresh Iyer,18,Female,Low,One-time,Loyal,Chennai,Health Conscious,Electronics,4,36,10,"Health Supplements, Electronics, Outdoor Gear",Checkout,2
+1068,Neha Gupta,59,Female,High,Occasional,Loyal,Jaipur,Bargain Hunter,Outdoor Gear,6,56,3,"Health Supplements, Home Appliances",Checkout,1
+1069,Priya Sharma,31,Female,Low,Occasional,Loyal,Chennai,Adventure Seeker,Fashion,19,25,7,Health Supplements,Product Page,5
+1070,Pooja Mehta,50,Female,Low,One-time,Lost,Hyderabad,Fashion Enthusiast,Home Appliances,7,49,5,"Fitness Equipment, Electronics",Product Page,5
+1071,Amit Patel,22,Male,High,Frequent,New,Delhi,Tech Savvy,Health Supplements,16,5,10,"Health Supplements, Fashion, Home Appliances",Category Page,5
+1072,Rahul Deshmukh,26,Male,Middle,Occasional,New,Pune,Adventure Seeker,Health Supplements,7,27,2,Fitness Equipment,Category Page,2
+1073,Anjali Verma,24,Female,Middle,Occasional,Loyal,Jaipur,Tech Savvy,Fitness Equipment,11,44,7,Health Supplements,Product Page,3
+1074,Priya Sharma,19,Male,High,Frequent,New,Delhi,Fitness Enthusiast,Outdoor Gear,13,26,4,Health Supplements,Category Page,5
+1075,Anjali Verma,44,Male,Low,Occasional,New,Pune,Adventure Seeker,Fashion,5,53,7,"Electronics, Home Appliances, Clothing",Product Page,5
+1076,Kavita Joshi,25,Male,Low,Occasional,Lost,Bangalore,Fashion Enthusiast,Health Supplements,20,51,9,"Outdoor Gear, Clothing, Health Supplements",Product Page,4
+1077,Neha Gupta,48,Male,High,One-time,Loyal,Jaipur,Adventure Seeker,Clothing,6,24,4,"Health Supplements, Electronics",Category Page,2
+1078,Vikram Reddy,35,Female,Middle,Occasional,Loyal,Mumbai,Tech Savvy,Fitness Equipment,14,13,10,"Clothing, Fashion, Health Supplements",Checkout,3
+1079,Kavita Joshi,28,Male,Middle,Frequent,Lost,Mumbai,Fitness Enthusiast,Clothing,10,29,7,Outdoor Gear,Category Page,1
+1080,Amit Patel,59,Female,Low,One-time,Loyal,Nagpur,Tech Savvy,Clothing,6,21,4,"Fashion, Outdoor Gear, Health Supplements",Category Page,3
+1081,Kavita Joshi,55,Female,High,Frequent,Loyal,Chennai,Adventure Seeker,Fashion,20,12,1,"Electronics, Home Appliances, Clothing",Checkout,4
+1082,Anjali Verma,19,Male,High,Frequent,New,Nagpur,Fashion Enthusiast,Electronics,16,47,7,"Fashion, Clothing, Fitness Equipment",Category Page,2
+1083,Vikram Reddy,23,Female,Middle,One-time,Lost,Chennai,Adventure Seeker,Outdoor Gear,14,8,8,Health Supplements,Checkout,5
+1084,Kavita Joshi,18,Female,Low,Occasional,Loyal,Ahmedabad,Fitness Enthusiast,Fitness Equipment,15,22,3,"Home Appliances, Outdoor Gear, Health Supplements",Checkout,2
+1085,Rahul Deshmukh,19,Male,High,One-time,Loyal,Ahmedabad,Tech Savvy,Electronics,18,48,6,"Health Supplements, Home Appliances",Product Page,2
+1086,Suresh Iyer,45,Female,High,One-time,New,Kolkata,Fitness Enthusiast,Home Appliances,8,30,5,"Fashion, Outdoor Gear",Checkout,4
+1087,Rajesh Kumar,24,Female,Middle,One-time,Loyal,Jaipur,Luxury Shopper,Fashion,3,58,3,Home Appliances,Category Page,3
+1088,Pooja Mehta,27,Female,High,Frequent,Lost,Mumbai,Health Conscious,Home Appliances,13,43,8,"Home Appliances, Fashion, Health Supplements",Category Page,2
+1089,Pooja Mehta,36,Female,High,One-time,Lost,Bangalore,Bargain Hunter,Home Appliances,6,49,6,Health Supplements,Product Page,1
+1090,Suresh Iyer,44,Female,Middle,One-time,Lost,Jaipur,Bargain Hunter,Health Supplements,10,38,9,Electronics,Product Page,5
+1091,Priya Sharma,21,Female,Middle,Occasional,Lost,Delhi,Adventure Seeker,Home Appliances,5,46,4,"Outdoor Gear, Health Supplements, Fitness Equipment",Product Page,4
+1092,Kavita Joshi,60,Female,Middle,Frequent,Lost,Bangalore,Health Conscious,Outdoor Gear,14,42,8,"Fashion, Electronics",Product Page,2
+1093,Priya Sharma,60,Female,High,Occasional,Lost,Mumbai,Adventure Seeker,Outdoor Gear,7,18,1,"Fitness Equipment, Clothing",Checkout,5
+1094,Suresh Iyer,19,Male,High,Occasional,Loyal,Nagpur,Health Conscious,Clothing,4,13,8,"Fashion, Outdoor Gear",Category Page,2
+1095,Anjali Verma,18,Male,High,Frequent,New,Ahmedabad,Health Conscious,Outdoor Gear,19,35,7,"Clothing, Home Appliances",Category Page,1
+1096,Vikram Reddy,24,Male,High,Frequent,New,Chennai,Fashion Enthusiast,Fitness Equipment,3,18,5,"Fashion, Home Appliances, Fitness Equipment",Checkout,3
+1097,Kavita Joshi,38,Female,High,One-time,Lost,Chennai,Luxury Shopper,Electronics,6,33,5,Clothing,Category Page,4
+1098,Suresh Iyer,50,Female,Middle,Frequent,Loyal,Jaipur,Health Conscious,Health Supplements,11,20,6,"Fitness Equipment, Clothing, Fashion",Category Page,2
+1099,Amit Patel,42,Female,High,Occasional,Loyal,Jaipur,Fashion Enthusiast,Health Supplements,17,24,3,"Health Supplements, Fitness Equipment",Product Page,5
+1100,Rahul Deshmukh,59,Female,Low,Occasional,Loyal,Jaipur,Health Conscious,Outdoor Gear,18,24,9,Fitness Equipment,Category Page,3
+1101,Priya Sharma,37,Male,Middle,Frequent,Loyal,Mumbai,Bargain Hunter,Outdoor Gear,16,5,10,"Health Supplements, Clothing",Category Page,5
+1102,Vikram Reddy,49,Female,High,One-time,Lost,Mumbai,Bargain Hunter,Outdoor Gear,10,38,5,"Health Supplements, Fashion, Fitness Equipment",Product Page,5
+1103,Suresh Iyer,43,Male,Middle,Frequent,Lost,Hyderabad,Fitness Enthusiast,Clothing,19,34,5,Health Supplements,Product Page,5
+1104,Rajesh Kumar,25,Female,Low,Frequent,Lost,Ahmedabad,Bargain Hunter,Home Appliances,4,56,5,"Health Supplements, Clothing",Category Page,4
+1105,Neha Gupta,59,Male,Low,Frequent,New,Jaipur,Fashion Enthusiast,Health Supplements,12,30,5,Clothing,Checkout,5
+1106,Neha Gupta,19,Male,High,One-time,Lost,Jaipur,Health Conscious,Home Appliances,10,33,1,"Fashion, Electronics, Health Supplements",Product Page,4
+1107,Priya Sharma,40,Female,Middle,Frequent,Lost,Bangalore,Health Conscious,Electronics,5,6,7,"Health Supplements, Fitness Equipment, Electronics",Product Page,1
+1108,Pooja Mehta,36,Female,High,Occasional,Loyal,Ahmedabad,Luxury Shopper,Clothing,16,29,6,Fashion,Category Page,1
+1109,Kavita Joshi,18,Male,High,Frequent,New,Chennai,Tech Savvy,Health Supplements,17,22,10,"Clothing, Outdoor Gear",Checkout,1
+1110,Rahul Deshmukh,60,Male,High,Frequent,Lost,Nagpur,Fitness Enthusiast,Clothing,13,57,3,Fashion,Checkout,5
+1111,Vikram Reddy,39,Female,High,Occasional,Loyal,Hyderabad,Fashion Enthusiast,Home Appliances,12,7,8,"Health Supplements, Electronics, Fitness Equipment",Product Page,5
+1112,Kavita Joshi,60,Female,Middle,One-time,New,Nagpur,Luxury Shopper,Electronics,19,20,9,"Home Appliances, Health Supplements",Product Page,2
+1113,Anjali Verma,50,Female,Low,Frequent,Lost,Bangalore,Luxury Shopper,Health Supplements,5,52,3,"Home Appliances, Electronics, Clothing",Product Page,3
+1114,Anjali Verma,47,Female,High,Frequent,New,Pune,Luxury Shopper,Electronics,6,11,7,Clothing,Product Page,4
+1115,Anjali Verma,26,Female,Middle,One-time,Loyal,Kolkata,Fitness Enthusiast,Electronics,12,43,5,"Fitness Equipment, Fashion",Category Page,2
+1116,Kavita Joshi,25,Female,High,One-time,New,Jaipur,Fashion Enthusiast,Clothing,17,41,3,"Fitness Equipment, Fashion",Checkout,1
+1117,Pooja Mehta,33,Female,High,One-time,New,Bangalore,Adventure Seeker,Fashion,18,60,10,"Electronics, Health Supplements, Clothing",Category Page,3
+1118,Neha Gupta,31,Female,High,Occasional,New,Chennai,Fitness Enthusiast,Outdoor Gear,6,40,6,"Electronics, Clothing, Outdoor Gear",Checkout,5
+1119,Rajesh Kumar,43,Female,Low,Frequent,Loyal,Delhi,Luxury Shopper,Outdoor Gear,11,48,8,Health Supplements,Checkout,3
+1120,Neha Gupta,20,Male,High,One-time,New,Kolkata,Luxury Shopper,Home Appliances,8,55,3,"Clothing, Fitness Equipment",Checkout,3
+1121,Amit Patel,33,Female,Low,Occasional,Loyal,Hyderabad,Adventure Seeker,Fashion,12,40,2,"Electronics, Fitness Equipment",Product Page,3
+1122,Amit Patel,45,Male,Middle,Frequent,Loyal,Bangalore,Luxury Shopper,Electronics,8,54,5,"Fashion, Outdoor Gear",Category Page,2
+1123,Neha Gupta,28,Male,Middle,Occasional,Loyal,Nagpur,Fitness Enthusiast,Electronics,18,7,1,Fashion,Checkout,4
+1124,Vikram Reddy,37,Male,High,Frequent,New,Chennai,Fashion Enthusiast,Outdoor Gear,12,43,6,"Fashion, Fitness Equipment",Product Page,2
+1125,Vikram Reddy,25,Male,High,Occasional,Loyal,Delhi,Adventure Seeker,Health Supplements,18,28,1,"Outdoor Gear, Fitness Equipment",Category Page,3
+1126,Priya Sharma,18,Female,Low,Occasional,Loyal,Nagpur,Tech Savvy,Outdoor Gear,19,38,3,"Fashion, Home Appliances",Product Page,4
+1127,Rajesh Kumar,29,Female,Middle,Frequent,New,Delhi,Fitness Enthusiast,Clothing,3,52,1,"Home Appliances, Fashion, Clothing",Product Page,3
+1128,Pooja Mehta,57,Male,Middle,Occasional,Lost,Jaipur,Health Conscious,Outdoor Gear,20,34,7,"Home Appliances, Health Supplements",Category Page,1
+1129,Kavita Joshi,42,Male,High,Occasional,Lost,Pune,Tech Savvy,Fashion,7,42,5,Health Supplements,Checkout,3
+1130,Suresh Iyer,28,Male,Middle,One-time,Loyal,Pune,Adventure Seeker,Fitness Equipment,6,17,1,"Fashion, Home Appliances",Product Page,1
+1131,Suresh Iyer,60,Female,Middle,Frequent,New,Jaipur,Tech Savvy,Health Supplements,6,36,3,Health Supplements,Checkout,1
+1132,Priya Sharma,28,Female,Middle,Occasional,Lost,Bangalore,Bargain Hunter,Clothing,12,17,8,"Outdoor Gear, Fitness Equipment, Home Appliances",Product Page,4
+1133,Anjali Verma,52,Male,Low,Frequent,New,Pune,Fitness Enthusiast,Clothing,20,23,10,"Fashion, Clothing",Product Page,4
+1134,Vikram Reddy,53,Female,High,Occasional,Loyal,Pune,Adventure Seeker,Clothing,7,7,2,"Electronics, Fitness Equipment",Checkout,4
+1135,Vikram Reddy,42,Male,Middle,Occasional,Loyal,Chennai,Bargain Hunter,Health Supplements,20,37,9,"Outdoor Gear, Home Appliances",Checkout,1
+1136,Suresh Iyer,47,Male,High,One-time,Lost,Hyderabad,Bargain Hunter,Electronics,18,45,6,Electronics,Checkout,5
+1137,Rajesh Kumar,45,Male,Low,One-time,Lost,Pune,Luxury Shopper,Fitness Equipment,9,21,8,"Fitness Equipment, Outdoor Gear",Category Page,2
+1138,Rahul Deshmukh,19,Female,Middle,Occasional,New,Hyderabad,Tech Savvy,Health Supplements,17,46,7,"Clothing, Fitness Equipment",Checkout,3
+1139,Kavita Joshi,42,Male,High,One-time,New,Chennai,Fashion Enthusiast,Clothing,14,39,8,"Clothing, Home Appliances",Product Page,5
+1140,Rahul Deshmukh,60,Male,Middle,Frequent,Loyal,Hyderabad,Adventure Seeker,Home Appliances,19,45,8,"Outdoor Gear, Fashion",Product Page,5
+1141,Rahul Deshmukh,39,Female,Middle,Frequent,Loyal,Delhi,Fitness Enthusiast,Clothing,16,47,10,"Electronics, Health Supplements",Checkout,4
+1142,Pooja Mehta,56,Female,High,Frequent,Lost,Delhi,Adventure Seeker,Outdoor Gear,17,10,7,Health Supplements,Product Page,1
+1143,Pooja Mehta,19,Female,Middle,Frequent,Lost,Chennai,Bargain Hunter,Electronics,9,44,4,"Fitness Equipment, Outdoor Gear",Category Page,3
+1144,Pooja Mehta,49,Male,High,One-time,Lost,Nagpur,Health Conscious,Electronics,5,8,8,Clothing,Checkout,3
+1145,Priya Sharma,39,Male,Low,Frequent,New,Ahmedabad,Adventure Seeker,Fitness Equipment,13,16,6,"Outdoor Gear, Electronics",Category Page,3
+1146,Neha Gupta,28,Female,High,Occasional,Loyal,Mumbai,Tech Savvy,Electronics,15,23,4,Clothing,Category Page,5
+1147,Pooja Mehta,22,Female,Middle,One-time,Loyal,Nagpur,Fashion Enthusiast,Home Appliances,12,15,2,Fashion,Category Page,3
+1148,Anjali Verma,52,Female,High,Frequent,Lost,Chennai,Adventure Seeker,Electronics,20,51,8,"Electronics, Outdoor Gear, Home Appliances",Checkout,2
+1149,Pooja Mehta,28,Female,High,Frequent,New,Hyderabad,Luxury Shopper,Fitness Equipment,6,37,7,Electronics,Checkout,4
+1150,Amit Patel,22,Female,High,Occasional,New,Delhi,Adventure Seeker,Home Appliances,3,13,2,Fitness Equipment,Category Page,3
+1151,Rahul Deshmukh,22,Female,Low,One-time,New,Kolkata,Bargain Hunter,Fitness Equipment,18,34,3,Clothing,Category Page,5
+1152,Amit Patel,31,Female,High,Occasional,New,Mumbai,Fitness Enthusiast,Fitness Equipment,14,40,7,"Fashion, Home Appliances, Health Supplements",Checkout,3
+1153,Anjali Verma,30,Male,Low,Occasional,Loyal,Jaipur,Fitness Enthusiast,Electronics,11,60,5,"Outdoor Gear, Electronics",Product Page,4
+1154,Kavita Joshi,23,Female,Low,Occasional,New,Nagpur,Fashion Enthusiast,Fitness Equipment,19,9,3,Health Supplements,Checkout,3
+1155,Pooja Mehta,55,Female,Middle,One-time,Lost,Bangalore,Bargain Hunter,Home Appliances,13,58,5,"Clothing, Fitness Equipment, Electronics",Checkout,5
+1156,Suresh Iyer,60,Female,Low,Frequent,Lost,Chennai,Fashion Enthusiast,Outdoor Gear,4,53,3,"Clothing, Outdoor Gear, Fitness Equipment",Checkout,1
+1157,Amit Patel,55,Female,Low,One-time,Loyal,Chennai,Health Conscious,Outdoor Gear,13,7,10,"Outdoor Gear, Health Supplements, Electronics",Category Page,1
+1158,Rahul Deshmukh,38,Female,Low,Frequent,New,Hyderabad,Bargain Hunter,Health Supplements,10,35,9,Outdoor Gear,Category Page,2
+1159,Vikram Reddy,59,Male,Middle,Occasional,Lost,Pune,Health Conscious,Outdoor Gear,14,17,3,Clothing,Checkout,4
+1160,Rahul Deshmukh,46,Female,High,Occasional,New,Jaipur,Tech Savvy,Home Appliances,13,20,1,"Outdoor Gear, Home Appliances",Product Page,2
+1161,Rahul Deshmukh,26,Female,Middle,One-time,New,Bangalore,Health Conscious,Health Supplements,10,58,5,"Electronics, Fitness Equipment",Product Page,5
+1162,Rajesh Kumar,38,Male,Low,Occasional,New,Kolkata,Tech Savvy,Fashion,16,58,4,Electronics,Checkout,3
+1163,Kavita Joshi,20,Female,Low,Frequent,New,Jaipur,Bargain Hunter,Fitness Equipment,16,52,5,Health Supplements,Checkout,2
+1164,Rajesh Kumar,32,Male,High,Occasional,Lost,Nagpur,Fitness Enthusiast,Fashion,9,6,4,"Outdoor Gear, Electronics",Category Page,4
+1165,Anjali Verma,35,Male,High,One-time,Loyal,Kolkata,Tech Savvy,Fitness Equipment,12,38,3,"Home Appliances, Fitness Equipment",Checkout,4
+1166,Kavita Joshi,34,Male,Middle,One-time,New,Pune,Bargain Hunter,Fashion,18,54,6,"Home Appliances, Health Supplements",Checkout,3
+1167,Suresh Iyer,49,Female,Middle,Occasional,Lost,Pune,Fitness Enthusiast,Home Appliances,6,21,1,"Home Appliances, Fitness Equipment",Checkout,1
+1168,Suresh Iyer,19,Male,High,One-time,Loyal,Jaipur,Health Conscious,Fitness Equipment,5,57,9,Home Appliances,Product Page,5
+1169,Amit Patel,41,Male,High,Frequent,Lost,Bangalore,Fashion Enthusiast,Fitness Equipment,5,17,5,Health Supplements,Product Page,4
+1170,Rahul Deshmukh,33,Male,Middle,Occasional,Loyal,Pune,Tech Savvy,Fashion,3,55,10,Health Supplements,Category Page,2
+1171,Amit Patel,39,Male,Low,Occasional,Loyal,Kolkata,Tech Savvy,Outdoor Gear,17,41,3,"Health Supplements, Fitness Equipment",Category Page,1
+1172,Neha Gupta,55,Female,High,One-time,New,Ahmedabad,Fitness Enthusiast,Outdoor Gear,8,7,5,Fitness Equipment,Product Page,3
+1173,Anjali Verma,58,Female,Middle,Frequent,New,Chennai,Adventure Seeker,Outdoor Gear,6,17,6,"Fitness Equipment, Fashion, Outdoor Gear",Product Page,2
+1174,Pooja Mehta,54,Male,Low,Frequent,Lost,Delhi,Health Conscious,Health Supplements,15,38,5,"Fitness Equipment, Fashion, Outdoor Gear",Category Page,1
+1175,Priya Sharma,57,Male,High,Frequent,New,Jaipur,Luxury Shopper,Home Appliances,7,40,10,Fashion,Product Page,1
+1176,Vikram Reddy,22,Female,Middle,One-time,New,Jaipur,Tech Savvy,Outdoor Gear,14,22,5,Electronics,Category Page,5
+1177,Priya Sharma,23,Female,Middle,Frequent,Lost,Jaipur,Tech Savvy,Fitness Equipment,7,52,9,Fitness Equipment,Category Page,5
+1178,Kavita Joshi,29,Male,Low,Occasional,Loyal,Jaipur,Adventure Seeker,Home Appliances,8,52,7,Fitness Equipment,Product Page,2
+1179,Vikram Reddy,51,Female,High,Frequent,New,Jaipur,Health Conscious,Fashion,20,41,9,Fitness Equipment,Category Page,4
+1180,Neha Gupta,60,Male,Middle,Frequent,Lost,Kolkata,Adventure Seeker,Clothing,6,46,9,"Fashion, Outdoor Gear, Fitness Equipment",Category Page,1
+1181,Rajesh Kumar,29,Female,Middle,Frequent,Lost,Mumbai,Health Conscious,Fashion,18,52,10,Fashion,Category Page,5
+1182,Pooja Mehta,56,Female,High,Occasional,Loyal,Jaipur,Fitness Enthusiast,Clothing,4,37,9,"Outdoor Gear, Health Supplements",Category Page,5
+1183,Neha Gupta,51,Female,Middle,One-time,Loyal,Nagpur,Adventure Seeker,Fitness Equipment,9,46,8,"Clothing, Health Supplements",Checkout,4
+1184,Kavita Joshi,57,Male,Low,Frequent,New,Kolkata,Tech Savvy,Outdoor Gear,4,32,2,Electronics,Checkout,2
+1185,Anjali Verma,60,Male,Low,One-time,Loyal,Hyderabad,Tech Savvy,Outdoor Gear,18,19,8,"Clothing, Fitness Equipment, Outdoor Gear",Category Page,1
+1186,Rahul Deshmukh,47,Female,Middle,Frequent,Loyal,Chennai,Fashion Enthusiast,Health Supplements,13,25,1,"Clothing, Electronics",Product Page,4
+1187,Neha Gupta,44,Female,High,One-time,Lost,Delhi,Fitness Enthusiast,Clothing,3,22,2,Health Supplements,Product Page,2
+1188,Rajesh Kumar,33,Male,Middle,One-time,Lost,Jaipur,Adventure Seeker,Fashion,9,43,9,"Health Supplements, Outdoor Gear, Clothing",Category Page,4
+1189,Anjali Verma,41,Male,Middle,One-time,Lost,Nagpur,Fitness Enthusiast,Outdoor Gear,17,57,7,"Clothing, Electronics, Fitness Equipment",Category Page,4
+1190,Anjali Verma,30,Male,High,Frequent,Lost,Ahmedabad,Fashion Enthusiast,Fitness Equipment,5,47,8,"Clothing, Electronics, Outdoor Gear",Checkout,2
+1191,Amit Patel,57,Male,Low,Frequent,Lost,Mumbai,Fitness Enthusiast,Electronics,11,43,9,Fitness Equipment,Checkout,2
+1192,Rahul Deshmukh,54,Male,Low,Occasional,Loyal,Kolkata,Adventure Seeker,Fitness Equipment,13,11,1,"Electronics, Fitness Equipment, Clothing",Product Page,5
+1193,Vikram Reddy,24,Female,Middle,One-time,New,Bangalore,Luxury Shopper,Fashion,18,19,3,Health Supplements,Product Page,5
+1194,Amit Patel,34,Male,Low,Frequent,Lost,Mumbai,Tech Savvy,Clothing,8,32,4,"Fashion, Clothing, Electronics",Checkout,3
+1195,Suresh Iyer,23,Female,High,One-time,Lost,Nagpur,Bargain Hunter,Outdoor Gear,17,19,7,"Outdoor Gear, Clothing, Fashion",Checkout,1
+1196,Vikram Reddy,37,Male,Middle,One-time,New,Kolkata,Fitness Enthusiast,Health Supplements,15,50,5,"Clothing, Fitness Equipment, Outdoor Gear",Product Page,3
+1197,Vikram Reddy,57,Male,Middle,One-time,New,Jaipur,Adventure Seeker,Health Supplements,15,43,8,"Electronics, Home Appliances, Fitness Equipment",Checkout,4
+1198,Pooja Mehta,20,Male,High,Occasional,New,Mumbai,Bargain Hunter,Fashion,19,35,2,Electronics,Product Page,3
+1199,Anjali Verma,42,Male,Middle,Frequent,New,Hyderabad,Bargain Hunter,Outdoor Gear,10,7,8,"Electronics, Clothing",Category Page,4
+1200,Kavita Joshi,35,Female,Middle,One-time,Loyal,Nagpur,Fitness Enthusiast,Electronics,7,43,3,"Electronics, Outdoor Gear",Checkout,1
+1201,Rajesh Kumar,19,Male,Middle,Frequent,Loyal,Ahmedabad,Luxury Shopper,Electronics,16,29,2,Fitness Equipment,Checkout,3
+1202,Neha Gupta,42,Male,Middle,One-time,Loyal,Mumbai,Adventure Seeker,Outdoor Gear,8,14,9,"Home Appliances, Outdoor Gear, Clothing",Category Page,1
+1203,Neha Gupta,37,Male,Middle,Occasional,New,Bangalore,Luxury Shopper,Fashion,13,23,5,"Electronics, Fashion",Product Page,4
+1204,Vikram Reddy,33,Female,Low,One-time,Lost,Chennai,Fitness Enthusiast,Fashion,15,9,9,Outdoor Gear,Category Page,5
+1205,Kavita Joshi,30,Female,High,Occasional,Loyal,Ahmedabad,Tech Savvy,Health Supplements,3,13,8,"Health Supplements, Clothing, Fitness Equipment",Category Page,3
+1206,Vikram Reddy,30,Male,High,Occasional,Loyal,Nagpur,Luxury Shopper,Fashion,20,51,9,"Clothing, Fashion",Checkout,1
+1207,Amit Patel,49,Female,Middle,Occasional,New,Jaipur,Tech Savvy,Fashion,12,57,9,"Clothing, Home Appliances",Checkout,3
+1208,Neha Gupta,56,Female,Low,Frequent,Loyal,Delhi,Tech Savvy,Clothing,5,23,3,"Fashion, Electronics",Category Page,5
+1209,Priya Sharma,37,Female,Low,One-time,Lost,Bangalore,Fitness Enthusiast,Electronics,7,23,2,"Electronics, Fashion, Home Appliances",Category Page,2
+1210,Neha Gupta,20,Male,Middle,One-time,Lost,Ahmedabad,Luxury Shopper,Home Appliances,14,48,7,"Clothing, Health Supplements",Category Page,2
+1211,Suresh Iyer,41,Male,High,One-time,New,Kolkata,Health Conscious,Fashion,17,60,8,"Electronics, Home Appliances, Outdoor Gear",Category Page,1
+1212,Rajesh Kumar,46,Female,High,One-time,New,Hyderabad,Luxury Shopper,Fitness Equipment,13,44,8,"Outdoor Gear, Fashion",Category Page,2
+1213,Kavita Joshi,21,Female,Low,Frequent,Lost,Bangalore,Fashion Enthusiast,Outdoor Gear,6,41,6,"Electronics, Fashion",Category Page,4
+1214,Amit Patel,60,Male,Low,Occasional,Lost,Pune,Luxury Shopper,Outdoor Gear,9,47,5,"Home Appliances, Fashion, Health Supplements",Checkout,1
+1215,Kavita Joshi,59,Male,High,Occasional,New,Ahmedabad,Health Conscious,Health Supplements,10,57,10,Fitness Equipment,Category Page,3
+1216,Vikram Reddy,20,Female,Low,One-time,New,Bangalore,Adventure Seeker,Electronics,14,55,3,"Outdoor Gear, Electronics",Category Page,3
+1217,Rahul Deshmukh,25,Male,High,Frequent,Lost,Bangalore,Adventure Seeker,Clothing,13,9,10,"Electronics, Health Supplements",Checkout,3
+1218,Rajesh Kumar,26,Male,High,One-time,New,Bangalore,Fashion Enthusiast,Electronics,6,46,8,"Home Appliances, Clothing, Outdoor Gear",Category Page,4
+1219,Suresh Iyer,51,Female,High,Frequent,New,Bangalore,Health Conscious,Electronics,6,49,9,"Fitness Equipment, Health Supplements, Fashion",Category Page,2
+1220,Pooja Mehta,19,Female,High,One-time,Loyal,Ahmedabad,Fashion Enthusiast,Fashion,17,17,8,"Electronics, Fitness Equipment",Product Page,2
+1221,Anjali Verma,35,Female,High,Occasional,Lost,Hyderabad,Tech Savvy,Clothing,4,18,1,Fashion,Category Page,3
+1222,Pooja Mehta,46,Male,Middle,Occasional,New,Ahmedabad,Fitness Enthusiast,Fitness Equipment,5,37,9,"Home Appliances, Outdoor Gear",Category Page,5
+1223,Amit Patel,21,Male,High,Occasional,New,Mumbai,Health Conscious,Fashion,12,48,6,"Home Appliances, Fashion, Clothing",Checkout,2
+1224,Neha Gupta,55,Female,High,Occasional,Loyal,Mumbai,Tech Savvy,Home Appliances,20,27,7,"Health Supplements, Fashion",Product Page,2
+1225,Priya Sharma,42,Female,Middle,One-time,Lost,Pune,Health Conscious,Home Appliances,13,49,10,"Outdoor Gear, Fashion",Product Page,3
+1226,Rajesh Kumar,31,Male,Low,Occasional,Loyal,Kolkata,Fitness Enthusiast,Outdoor Gear,3,57,4,"Fashion, Outdoor Gear, Home Appliances",Checkout,2
+1227,Suresh Iyer,28,Female,Middle,One-time,New,Delhi,Fitness Enthusiast,Outdoor Gear,19,23,3,"Outdoor Gear, Electronics",Checkout,2
+1228,Suresh Iyer,21,Male,Middle,Occasional,New,Jaipur,Health Conscious,Outdoor Gear,13,15,10,"Fitness Equipment, Fashion, Health Supplements",Category Page,3
+1229,Pooja Mehta,39,Female,High,Occasional,New,Nagpur,Bargain Hunter,Health Supplements,17,25,8,"Home Appliances, Electronics",Product Page,1
+1230,Anjali Verma,50,Female,High,Occasional,New,Delhi,Health Conscious,Electronics,19,8,4,"Health Supplements, Electronics",Product Page,4
+1231,Priya Sharma,19,Female,High,Occasional,Lost,Bangalore,Tech Savvy,Fitness Equipment,4,28,4,"Home Appliances, Outdoor Gear",Category Page,2
+1232,Rajesh Kumar,55,Male,Middle,Occasional,Lost,Delhi,Health Conscious,Home Appliances,15,40,5,Fitness Equipment,Category Page,1
+1233,Rahul Deshmukh,42,Male,High,One-time,Loyal,Delhi,Health Conscious,Clothing,20,46,7,Clothing,Checkout,2
+1234,Vikram Reddy,33,Male,Low,One-time,Lost,Hyderabad,Adventure Seeker,Fashion,5,6,6,Home Appliances,Product Page,2
+1235,Anjali Verma,45,Female,Low,One-time,Loyal,Chennai,Health Conscious,Fitness Equipment,7,35,7,Outdoor Gear,Category Page,5
+1236,Rahul Deshmukh,27,Female,Middle,Frequent,Lost,Delhi,Fashion Enthusiast,Outdoor Gear,12,22,7,"Clothing, Electronics",Product Page,2
+1237,Neha Gupta,22,Female,Low,One-time,Lost,Chennai,Fitness Enthusiast,Electronics,19,50,10,"Fitness Equipment, Health Supplements",Product Page,1
+1238,Rahul Deshmukh,54,Female,High,Frequent,Loyal,Nagpur,Fashion Enthusiast,Outdoor Gear,9,39,1,"Health Supplements, Fashion, Clothing",Category Page,3
+1239,Priya Sharma,23,Male,Low,One-time,New,Mumbai,Bargain Hunter,Fitness Equipment,8,13,2,"Clothing, Electronics",Category Page,2
+1240,Vikram Reddy,56,Male,High,Frequent,Lost,Chennai,Tech Savvy,Electronics,4,30,4,"Fitness Equipment, Clothing, Home Appliances",Checkout,3
+1241,Rahul Deshmukh,28,Female,Middle,One-time,Lost,Delhi,Bargain Hunter,Outdoor Gear,8,14,8,Fashion,Checkout,2
+1242,Priya Sharma,44,Female,Middle,Occasional,Loyal,Ahmedabad,Adventure Seeker,Electronics,10,14,8,Fashion,Checkout,3
+1243,Suresh Iyer,22,Male,Middle,One-time,Lost,Hyderabad,Bargain Hunter,Fashion,5,14,9,Health Supplements,Category Page,2
+1244,Amit Patel,22,Female,Low,Frequent,Loyal,Kolkata,Fashion Enthusiast,Fitness Equipment,12,11,4,"Electronics, Fashion",Category Page,2
+1245,Priya Sharma,39,Male,Low,Frequent,New,Delhi,Fitness Enthusiast,Outdoor Gear,17,31,10,Fashion,Product Page,2
+1246,Rajesh Kumar,39,Female,Middle,Occasional,New,Delhi,Health Conscious,Health Supplements,17,57,3,Health Supplements,Product Page,4
+1247,Neha Gupta,38,Female,Middle,One-time,New,Chennai,Luxury Shopper,Outdoor Gear,18,35,4,"Electronics, Clothing, Outdoor Gear",Product Page,5
+1248,Vikram Reddy,39,Female,Middle,Frequent,Loyal,Ahmedabad,Adventure Seeker,Clothing,10,39,3,Outdoor Gear,Checkout,5
+1249,Pooja Mehta,34,Female,High,One-time,Loyal,Ahmedabad,Health Conscious,Home Appliances,16,41,1,"Clothing, Health Supplements, Electronics",Checkout,2
+1250,Suresh Iyer,54,Male,Low,Occasional,New,Hyderabad,Luxury Shopper,Health Supplements,15,56,1,Electronics,Category Page,2
+1251,Suresh Iyer,58,Female,Middle,One-time,New,Kolkata,Fitness Enthusiast,Fitness Equipment,6,31,6,Fashion,Product Page,1
+1252,Pooja Mehta,27,Male,Low,Occasional,Loyal,Chennai,Luxury Shopper,Fitness Equipment,8,8,10,"Electronics, Home Appliances",Category Page,4
+1253,Suresh Iyer,47,Male,High,Frequent,New,Jaipur,Fitness Enthusiast,Outdoor Gear,20,48,9,"Clothing, Fitness Equipment",Product Page,2
+1254,Vikram Reddy,55,Male,High,Frequent,New,Chennai,Fashion Enthusiast,Outdoor Gear,16,39,2,"Fashion, Electronics, Outdoor Gear",Checkout,2
+1255,Vikram Reddy,44,Male,High,One-time,Loyal,Chennai,Bargain Hunter,Electronics,3,45,4,Clothing,Category Page,2
+1256,Priya Sharma,41,Male,Low,Occasional,Lost,Pune,Fitness Enthusiast,Clothing,16,47,1,Outdoor Gear,Checkout,4
+1257,Rahul Deshmukh,45,Male,High,Occasional,Loyal,Jaipur,Adventure Seeker,Health Supplements,8,20,3,Clothing,Product Page,1
+1258,Kavita Joshi,44,Female,Low,Occasional,Loyal,Bangalore,Health Conscious,Health Supplements,3,22,5,Health Supplements,Category Page,5
+1259,Priya Sharma,40,Female,High,One-time,Lost,Chennai,Adventure Seeker,Fashion,8,6,7,"Fitness Equipment, Outdoor Gear",Product Page,4
+1260,Amit Patel,53,Male,Middle,Occasional,New,Delhi,Fashion Enthusiast,Fitness Equipment,14,20,7,Outdoor Gear,Product Page,2
+1261,Rahul Deshmukh,19,Male,High,Frequent,New,Chennai,Bargain Hunter,Clothing,10,34,3,"Outdoor Gear, Fashion, Clothing",Product Page,2
+1262,Pooja Mehta,20,Female,Low,Occasional,Loyal,Mumbai,Fitness Enthusiast,Fitness Equipment,8,27,3,"Fashion, Electronics, Fitness Equipment",Product Page,4
+1263,Rahul Deshmukh,49,Male,Low,Frequent,Lost,Delhi,Tech Savvy,Home Appliances,6,55,4,Outdoor Gear,Category Page,3
+1264,Rajesh Kumar,22,Female,Middle,One-time,New,Kolkata,Tech Savvy,Electronics,14,12,2,"Outdoor Gear, Electronics",Checkout,5
+1265,Anjali Verma,21,Male,Low,Frequent,Lost,Bangalore,Luxury Shopper,Home Appliances,3,57,7,"Home Appliances, Fashion, Outdoor Gear",Checkout,1
+1266,Priya Sharma,43,Female,High,Frequent,New,Mumbai,Health Conscious,Fashion,11,29,1,Home Appliances,Product Page,1
+1267,Rahul Deshmukh,37,Female,Low,Frequent,Loyal,Delhi,Fitness Enthusiast,Fashion,20,5,3,"Home Appliances, Health Supplements, Fitness Equipment",Checkout,3
+1268,Suresh Iyer,52,Male,Middle,Frequent,Lost,Chennai,Tech Savvy,Clothing,18,7,5,"Fitness Equipment, Fashion, Outdoor Gear",Product Page,4
+1269,Pooja Mehta,20,Male,High,Frequent,New,Nagpur,Health Conscious,Fashion,13,43,1,"Fitness Equipment, Health Supplements, Outdoor Gear",Product Page,4
+1270,Neha Gupta,51,Female,Low,Frequent,New,Hyderabad,Adventure Seeker,Health Supplements,3,56,7,Fashion,Checkout,3
+1271,Suresh Iyer,55,Female,Low,One-time,Lost,Bangalore,Tech Savvy,Outdoor Gear,9,9,2,Outdoor Gear,Checkout,3
+1272,Vikram Reddy,18,Male,High,One-time,Loyal,Nagpur,Bargain Hunter,Fashion,4,43,1,Home Appliances,Category Page,1
+1273,Suresh Iyer,50,Female,High,Occasional,New,Mumbai,Health Conscious,Clothing,14,40,9,"Clothing, Health Supplements, Fitness Equipment",Category Page,3
+1274,Rajesh Kumar,41,Male,Low,One-time,Lost,Pune,Fashion Enthusiast,Outdoor Gear,8,23,8,"Fashion, Health Supplements",Checkout,2
+1275,Pooja Mehta,35,Male,Low,Occasional,Loyal,Bangalore,Bargain Hunter,Fashion,8,46,5,"Health Supplements, Clothing",Category Page,3
+1276,Suresh Iyer,36,Female,Low,Frequent,New,Chennai,Health Conscious,Clothing,3,52,3,Electronics,Product Page,4
+1277,Pooja Mehta,37,Male,Low,Occasional,Lost,Jaipur,Bargain Hunter,Health Supplements,20,55,6,"Fashion, Outdoor Gear, Fitness Equipment",Product Page,1
+1278,Priya Sharma,58,Female,Low,One-time,Loyal,Ahmedabad,Adventure Seeker,Fashion,16,48,7,Home Appliances,Product Page,3
+1279,Priya Sharma,54,Female,Middle,One-time,Loyal,Bangalore,Fashion Enthusiast,Outdoor Gear,4,6,7,Health Supplements,Checkout,3
+1280,Suresh Iyer,19,Male,Middle,One-time,New,Pune,Bargain Hunter,Home Appliances,8,54,3,"Fashion, Outdoor Gear",Checkout,2
+1281,Vikram Reddy,23,Male,High,One-time,Loyal,Pune,Health Conscious,Home Appliances,14,51,1,"Home Appliances, Fitness Equipment",Checkout,5
+1282,Kavita Joshi,51,Female,Low,Frequent,Loyal,Nagpur,Tech Savvy,Outdoor Gear,13,21,5,Home Appliances,Category Page,4
+1283,Kavita Joshi,49,Female,Low,Occasional,New,Nagpur,Tech Savvy,Outdoor Gear,20,13,1,Fitness Equipment,Checkout,2
+1284,Anjali Verma,48,Female,Middle,One-time,Lost,Bangalore,Fitness Enthusiast,Fitness Equipment,12,39,4,Fitness Equipment,Category Page,5
+1285,Suresh Iyer,22,Male,Middle,Frequent,Lost,Nagpur,Health Conscious,Clothing,8,20,5,Fashion,Checkout,2
+1286,Rajesh Kumar,19,Male,High,One-time,Lost,Mumbai,Fashion Enthusiast,Fashion,20,44,9,"Home Appliances, Fitness Equipment",Checkout,3
+1287,Vikram Reddy,33,Female,Low,One-time,New,Jaipur,Fitness Enthusiast,Outdoor Gear,5,43,8,"Outdoor Gear, Fashion",Product Page,4
+1288,Suresh Iyer,38,Male,Low,Frequent,New,Jaipur,Tech Savvy,Home Appliances,11,54,8,"Fitness Equipment, Home Appliances, Clothing",Category Page,4
+1289,Vikram Reddy,35,Male,High,Frequent,Lost,Nagpur,Fashion Enthusiast,Electronics,12,44,9,"Health Supplements, Fashion",Category Page,1
+1290,Vikram Reddy,49,Female,High,One-time,New,Bangalore,Tech Savvy,Fashion,17,42,7,"Health Supplements, Home Appliances, Fitness Equipment",Category Page,2
+1291,Priya Sharma,34,Male,High,Occasional,Loyal,Nagpur,Tech Savvy,Electronics,11,19,6,Health Supplements,Checkout,4
+1292,Anjali Verma,34,Female,High,One-time,Loyal,Mumbai,Adventure Seeker,Fashion,8,10,4,Fitness Equipment,Checkout,3
+1293,Anjali Verma,27,Female,High,Occasional,Loyal,Hyderabad,Fashion Enthusiast,Electronics,11,53,9,Fashion,Category Page,5
+1294,Kavita Joshi,38,Male,Middle,Occasional,Loyal,Chennai,Bargain Hunter,Health Supplements,12,9,3,"Clothing, Fashion",Product Page,5
+1295,Vikram Reddy,34,Female,Middle,One-time,Loyal,Kolkata,Adventure Seeker,Health Supplements,18,55,8,"Home Appliances, Fitness Equipment",Checkout,4
+1296,Neha Gupta,26,Female,High,Frequent,New,Hyderabad,Tech Savvy,Home Appliances,17,40,8,"Home Appliances, Fitness Equipment",Checkout,3
+1297,Anjali Verma,50,Male,Low,Occasional,New,Kolkata,Health Conscious,Clothing,3,57,1,"Clothing, Fitness Equipment",Product Page,4
+1298,Neha Gupta,48,Female,Low,Frequent,New,Chennai,Fitness Enthusiast,Fashion,17,39,5,"Health Supplements, Fitness Equipment",Product Page,1
+1299,Rajesh Kumar,41,Female,Low,One-time,New,Delhi,Adventure Seeker,Outdoor Gear,4,33,1,"Health Supplements, Home Appliances, Fitness Equipment",Category Page,3
+1300,Kavita Joshi,45,Male,High,Frequent,New,Hyderabad,Fitness Enthusiast,Electronics,12,28,5,Electronics,Category Page,3
+1301,Amit Patel,38,Male,High,Occasional,Lost,Nagpur,Fitness Enthusiast,Home Appliances,6,6,6,"Fashion, Health Supplements",Category Page,1
+1302,Rahul Deshmukh,60,Female,Middle,Occasional,Loyal,Pune,Health Conscious,Clothing,12,19,1,"Fitness Equipment, Fashion, Health Supplements",Category Page,2
+1303,Pooja Mehta,52,Male,High,Frequent,Loyal,Ahmedabad,Fashion Enthusiast,Fitness Equipment,20,16,6,"Home Appliances, Outdoor Gear",Checkout,2
+1304,Vikram Reddy,18,Male,Middle,Occasional,Lost,Jaipur,Luxury Shopper,Fitness Equipment,4,32,5,"Health Supplements, Fitness Equipment",Product Page,4
+1305,Kavita Joshi,37,Female,Low,Frequent,Lost,Bangalore,Fashion Enthusiast,Outdoor Gear,5,43,8,"Clothing, Outdoor Gear",Category Page,4
+1306,Priya Sharma,49,Male,High,One-time,Loyal,Nagpur,Adventure Seeker,Clothing,18,12,9,"Fitness Equipment, Outdoor Gear, Home Appliances",Checkout,2
+1307,Kavita Joshi,45,Male,Low,Occasional,New,Hyderabad,Health Conscious,Fitness Equipment,8,38,4,"Fitness Equipment, Clothing",Product Page,2
+1308,Vikram Reddy,26,Female,Low,Occasional,Loyal,Hyderabad,Tech Savvy,Fashion,19,13,6,"Clothing, Fashion, Home Appliances",Category Page,2
+1309,Rahul Deshmukh,21,Female,Middle,Frequent,New,Ahmedabad,Tech Savvy,Health Supplements,16,41,1,"Electronics, Fitness Equipment, Health Supplements",Product Page,5
+1310,Pooja Mehta,52,Female,High,One-time,Lost,Jaipur,Luxury Shopper,Home Appliances,9,30,9,Home Appliances,Product Page,2
+1311,Priya Sharma,31,Female,Low,Occasional,Lost,Bangalore,Fitness Enthusiast,Fashion,7,21,1,Health Supplements,Product Page,3
+1312,Amit Patel,35,Male,Low,Occasional,Lost,Hyderabad,Bargain Hunter,Fitness Equipment,12,29,1,"Electronics, Home Appliances, Fitness Equipment",Category Page,5
+1313,Amit Patel,18,Male,Middle,One-time,New,Jaipur,Bargain Hunter,Health Supplements,4,35,2,Home Appliances,Category Page,4
+1314,Kavita Joshi,42,Male,Middle,One-time,New,Delhi,Adventure Seeker,Fitness Equipment,15,33,6,Electronics,Product Page,1
+1315,Vikram Reddy,21,Female,High,Occasional,New,Ahmedabad,Health Conscious,Fitness Equipment,6,35,7,"Outdoor Gear, Health Supplements, Home Appliances",Product Page,3
+1316,Kavita Joshi,47,Male,High,One-time,Lost,Pune,Fitness Enthusiast,Fashion,7,35,9,"Home Appliances, Health Supplements",Checkout,4
+1317,Rajesh Kumar,30,Male,High,Frequent,Loyal,Pune,Health Conscious,Fitness Equipment,13,53,6,"Fashion, Fitness Equipment, Clothing",Product Page,3
+1318,Anjali Verma,44,Male,Middle,Occasional,New,Hyderabad,Health Conscious,Fashion,17,37,1,"Clothing, Electronics",Category Page,4
+1319,Neha Gupta,26,Female,Middle,Frequent,Loyal,Jaipur,Luxury Shopper,Fitness Equipment,18,28,10,"Outdoor Gear, Fitness Equipment, Health Supplements",Product Page,4
+1320,Kavita Joshi,58,Female,High,One-time,New,Chennai,Tech Savvy,Home Appliances,6,33,4,Electronics,Product Page,1
+1321,Vikram Reddy,54,Female,Middle,Occasional,New,Pune,Health Conscious,Fitness Equipment,6,37,3,"Home Appliances, Clothing",Product Page,5
+1322,Neha Gupta,30,Female,Middle,Occasional,New,Kolkata,Luxury Shopper,Fitness Equipment,14,58,8,"Outdoor Gear, Home Appliances",Checkout,1
+1323,Pooja Mehta,53,Male,Middle,Frequent,Lost,Chennai,Fashion Enthusiast,Electronics,8,26,6,"Clothing, Health Supplements",Checkout,5
+1324,Vikram Reddy,26,Female,Middle,Occasional,Loyal,Ahmedabad,Bargain Hunter,Health Supplements,18,22,8,Electronics,Checkout,1
+1325,Rajesh Kumar,47,Female,High,Occasional,Loyal,Ahmedabad,Tech Savvy,Electronics,17,25,9,"Outdoor Gear, Home Appliances, Fitness Equipment",Product Page,2
+1326,Kavita Joshi,38,Female,Middle,Frequent,Lost,Chennai,Health Conscious,Fashion,8,39,10,"Clothing, Fitness Equipment, Health Supplements",Checkout,4
+1327,Priya Sharma,35,Female,High,Frequent,New,Kolkata,Tech Savvy,Fashion,11,46,1,"Clothing, Outdoor Gear",Checkout,2
+1328,Priya Sharma,18,Female,Middle,Occasional,Lost,Mumbai,Fitness Enthusiast,Health Supplements,6,6,2,"Electronics, Health Supplements, Outdoor Gear",Category Page,2
+1329,Priya Sharma,53,Female,High,One-time,Loyal,Chennai,Fitness Enthusiast,Home Appliances,19,42,3,"Home Appliances, Outdoor Gear, Health Supplements",Checkout,1
+1330,Priya Sharma,44,Male,High,Frequent,New,Bangalore,Bargain Hunter,Electronics,18,29,10,"Health Supplements, Home Appliances, Outdoor Gear",Checkout,1
+1331,Priya Sharma,22,Male,High,Frequent,Lost,Ahmedabad,Bargain Hunter,Electronics,12,13,7,Fashion,Product Page,1
+1332,Rajesh Kumar,43,Male,Low,Occasional,New,Hyderabad,Fitness Enthusiast,Home Appliances,7,54,1,"Fashion, Clothing, Electronics",Product Page,1
+1333,Amit Patel,18,Female,High,Occasional,Loyal,Ahmedabad,Tech Savvy,Outdoor Gear,4,37,6,"Electronics, Outdoor Gear",Checkout,2
+1334,Amit Patel,25,Male,Low,Occasional,New,Nagpur,Tech Savvy,Health Supplements,10,47,9,Fitness Equipment,Product Page,1
+1335,Rahul Deshmukh,57,Male,High,Occasional,Loyal,Delhi,Fashion Enthusiast,Electronics,5,40,3,"Home Appliances, Fitness Equipment",Product Page,4
+1336,Pooja Mehta,45,Female,Low,Frequent,Loyal,Chennai,Tech Savvy,Electronics,18,49,3,Electronics,Checkout,5
+1337,Amit Patel,23,Female,High,One-time,New,Nagpur,Adventure Seeker,Electronics,8,22,8,"Clothing, Fitness Equipment, Health Supplements",Product Page,5
+1338,Pooja Mehta,41,Female,High,Frequent,Loyal,Ahmedabad,Bargain Hunter,Health Supplements,17,39,8,Home Appliances,Checkout,5
+1339,Anjali Verma,31,Male,Low,Frequent,Lost,Mumbai,Health Conscious,Outdoor Gear,5,36,5,"Health Supplements, Home Appliances, Outdoor Gear",Category Page,1
+1340,Suresh Iyer,44,Female,Low,Occasional,Lost,Ahmedabad,Adventure Seeker,Home Appliances,12,6,2,"Clothing, Outdoor Gear",Checkout,2
+1341,Pooja Mehta,35,Male,Low,One-time,Loyal,Chennai,Luxury Shopper,Electronics,10,30,2,Fitness Equipment,Checkout,1
+1342,Kavita Joshi,30,Female,High,One-time,Lost,Bangalore,Luxury Shopper,Fitness Equipment,17,25,10,"Health Supplements, Home Appliances",Product Page,5
+1343,Suresh Iyer,26,Male,Low,Occasional,Loyal,Mumbai,Bargain Hunter,Home Appliances,5,28,9,Clothing,Category Page,2
+1344,Kavita Joshi,43,Female,High,Frequent,Lost,Pune,Fitness Enthusiast,Health Supplements,9,33,8,"Electronics, Health Supplements, Fitness Equipment",Category Page,2
+1345,Suresh Iyer,47,Male,Middle,Frequent,Lost,Bangalore,Fashion Enthusiast,Electronics,17,16,2,"Electronics, Fashion, Home Appliances",Checkout,5
+1346,Anjali Verma,27,Male,Middle,One-time,Loyal,Hyderabad,Fitness Enthusiast,Health Supplements,9,29,7,"Fashion, Fitness Equipment",Product Page,2
+1347,Rahul Deshmukh,19,Female,Low,Frequent,Loyal,Pune,Fashion Enthusiast,Home Appliances,10,36,4,Outdoor Gear,Category Page,3
+1348,Neha Gupta,23,Male,High,Occasional,New,Jaipur,Health Conscious,Home Appliances,12,13,6,"Outdoor Gear, Health Supplements",Category Page,3
+1349,Anjali Verma,19,Male,Middle,One-time,New,Ahmedabad,Bargain Hunter,Clothing,9,31,1,"Home Appliances, Clothing",Checkout,3
+1350,Rahul Deshmukh,23,Male,Middle,One-time,Loyal,Jaipur,Bargain Hunter,Electronics,3,23,2,"Home Appliances, Electronics",Checkout,1
+1351,Vikram Reddy,38,Male,High,Occasional,New,Hyderabad,Health Conscious,Fitness Equipment,20,8,5,Home Appliances,Checkout,4
+1352,Priya Sharma,52,Male,Middle,One-time,Loyal,Ahmedabad,Adventure Seeker,Outdoor Gear,14,8,6,"Clothing, Fashion",Checkout,4
+1353,Pooja Mehta,54,Male,Low,Occasional,New,Delhi,Health Conscious,Health Supplements,3,55,2,Outdoor Gear,Product Page,3
+1354,Vikram Reddy,41,Male,Low,Frequent,Loyal,Nagpur,Tech Savvy,Outdoor Gear,16,29,9,"Health Supplements, Fitness Equipment, Clothing",Checkout,2
+1355,Rahul Deshmukh,56,Female,Low,Frequent,New,Kolkata,Bargain Hunter,Fitness Equipment,3,17,5,Outdoor Gear,Category Page,2
+1356,Anjali Verma,53,Male,High,One-time,New,Hyderabad,Luxury Shopper,Fitness Equipment,18,49,5,"Home Appliances, Outdoor Gear",Category Page,4
+1357,Rajesh Kumar,30,Male,Middle,Occasional,New,Chennai,Luxury Shopper,Health Supplements,20,42,3,"Outdoor Gear, Electronics, Clothing",Product Page,1
+1358,Rahul Deshmukh,23,Female,Middle,Occasional,New,Nagpur,Tech Savvy,Fitness Equipment,12,41,8,"Electronics, Fitness Equipment",Product Page,2
+1359,Rahul Deshmukh,26,Male,Middle,Occasional,Loyal,Mumbai,Tech Savvy,Electronics,7,56,5,"Fitness Equipment, Outdoor Gear, Home Appliances",Checkout,2
+1360,Rajesh Kumar,46,Male,Low,Frequent,New,Hyderabad,Bargain Hunter,Health Supplements,8,10,9,"Fashion, Outdoor Gear",Category Page,2
+1361,Priya Sharma,49,Female,Low,Frequent,Loyal,Jaipur,Health Conscious,Clothing,10,49,4,Health Supplements,Product Page,5
+1362,Priya Sharma,60,Male,Middle,Occasional,Lost,Chennai,Bargain Hunter,Electronics,8,21,2,Health Supplements,Checkout,3
+1363,Neha Gupta,52,Male,Middle,One-time,Loyal,Bangalore,Health Conscious,Fashion,7,24,10,"Fashion, Home Appliances, Health Supplements",Category Page,3
+1364,Vikram Reddy,25,Male,Low,Occasional,Lost,Ahmedabad,Fitness Enthusiast,Electronics,19,54,6,Home Appliances,Product Page,2
+1365,Rahul Deshmukh,40,Male,High,Occasional,Loyal,Jaipur,Bargain Hunter,Fashion,5,21,3,"Fitness Equipment, Outdoor Gear, Home Appliances",Category Page,4
+1366,Vikram Reddy,39,Male,High,One-time,New,Bangalore,Tech Savvy,Fitness Equipment,6,29,4,"Outdoor Gear, Fitness Equipment, Clothing",Category Page,1
+1367,Neha Gupta,35,Female,Middle,Occasional,Lost,Delhi,Bargain Hunter,Electronics,13,51,4,"Outdoor Gear, Fitness Equipment, Fashion",Category Page,1
+1368,Rahul Deshmukh,40,Male,Middle,One-time,New,Chennai,Adventure Seeker,Fashion,18,9,6,"Home Appliances, Electronics",Product Page,1
+1369,Anjali Verma,47,Female,Middle,One-time,Lost,Hyderabad,Fashion Enthusiast,Home Appliances,8,31,1,Clothing,Category Page,2
+1370,Anjali Verma,50,Male,Middle,Frequent,Lost,Hyderabad,Tech Savvy,Electronics,15,46,5,"Electronics, Home Appliances, Outdoor Gear",Checkout,4
+1371,Rahul Deshmukh,44,Male,High,Occasional,Loyal,Jaipur,Fitness Enthusiast,Fitness Equipment,8,15,1,"Fitness Equipment, Outdoor Gear",Category Page,5
+1372,Anjali Verma,25,Female,Middle,Occasional,New,Ahmedabad,Adventure Seeker,Fashion,6,16,9,Outdoor Gear,Checkout,4
+1373,Rajesh Kumar,44,Male,High,Occasional,Lost,Delhi,Fashion Enthusiast,Outdoor Gear,8,50,6,"Health Supplements, Fashion",Checkout,5
+1374,Neha Gupta,19,Female,High,Occasional,Lost,Mumbai,Tech Savvy,Clothing,9,34,1,"Home Appliances, Fitness Equipment",Checkout,1
+1375,Priya Sharma,23,Male,Middle,One-time,New,Mumbai,Fitness Enthusiast,Health Supplements,11,16,4,"Electronics, Health Supplements",Checkout,1
+1376,Kavita Joshi,19,Male,Low,Occasional,Loyal,Bangalore,Health Conscious,Clothing,10,40,4,Fitness Equipment,Product Page,3
+1377,Vikram Reddy,51,Female,High,Frequent,New,Hyderabad,Luxury Shopper,Health Supplements,20,52,4,"Electronics, Health Supplements",Checkout,3
+1378,Amit Patel,24,Male,Middle,Occasional,Loyal,Kolkata,Luxury Shopper,Outdoor Gear,10,27,5,"Fitness Equipment, Home Appliances",Product Page,5
+1379,Rajesh Kumar,46,Male,Low,One-time,Lost,Ahmedabad,Luxury Shopper,Electronics,14,18,7,Fashion,Checkout,3
+1380,Rahul Deshmukh,56,Male,Low,Occasional,New,Pune,Health Conscious,Clothing,6,42,6,"Clothing, Fitness Equipment",Checkout,4
+1381,Priya Sharma,30,Male,Middle,One-time,Loyal,Chennai,Fitness Enthusiast,Outdoor Gear,16,32,4,Health Supplements,Category Page,3
+1382,Priya Sharma,53,Male,High,Occasional,Loyal,Delhi,Adventure Seeker,Fitness Equipment,16,47,3,"Fitness Equipment, Fashion, Home Appliances",Category Page,2
+1383,Priya Sharma,46,Male,Middle,Occasional,New,Hyderabad,Fashion Enthusiast,Outdoor Gear,19,39,1,"Home Appliances, Health Supplements",Checkout,1
+1384,Pooja Mehta,22,Male,Middle,Occasional,Loyal,Hyderabad,Fashion Enthusiast,Electronics,16,12,3,"Health Supplements, Outdoor Gear, Home Appliances",Product Page,3
+1385,Suresh Iyer,36,Male,Middle,Occasional,New,Kolkata,Fashion Enthusiast,Outdoor Gear,5,37,3,"Fitness Equipment, Clothing, Health Supplements",Category Page,5
+1386,Pooja Mehta,27,Female,Middle,Frequent,Loyal,Delhi,Health Conscious,Fashion,13,23,5,"Fashion, Fitness Equipment, Outdoor Gear",Product Page,1
+1387,Anjali Verma,28,Female,High,One-time,Lost,Chennai,Luxury Shopper,Fitness Equipment,10,39,7,"Clothing, Fitness Equipment, Outdoor Gear",Product Page,5
+1388,Vikram Reddy,20,Male,Middle,Frequent,Lost,Delhi,Adventure Seeker,Electronics,6,32,8,"Fitness Equipment, Health Supplements",Checkout,4
+1389,Rajesh Kumar,24,Male,Low,Frequent,New,Pune,Tech Savvy,Health Supplements,8,19,2,Fitness Equipment,Checkout,3
+1390,Rajesh Kumar,23,Female,High,Occasional,New,Pune,Health Conscious,Electronics,7,46,1,Health Supplements,Category Page,1
+1391,Vikram Reddy,48,Male,Middle,Occasional,New,Jaipur,Tech Savvy,Fitness Equipment,5,30,1,"Health Supplements, Clothing",Checkout,3
+1392,Pooja Mehta,19,Female,Middle,One-time,Lost,Chennai,Tech Savvy,Health Supplements,16,37,1,"Fitness Equipment, Outdoor Gear, Electronics",Product Page,4
+1393,Kavita Joshi,19,Male,Middle,One-time,Lost,Ahmedabad,Bargain Hunter,Electronics,12,7,9,Clothing,Checkout,5
+1394,Rahul Deshmukh,21,Female,Middle,Frequent,New,Mumbai,Fashion Enthusiast,Clothing,6,29,7,"Fitness Equipment, Outdoor Gear",Category Page,2
+1395,Rajesh Kumar,31,Male,High,Frequent,New,Delhi,Tech Savvy,Fashion,3,12,1,"Health Supplements, Fitness Equipment",Checkout,3
+1396,Kavita Joshi,58,Male,High,Occasional,Lost,Hyderabad,Luxury Shopper,Clothing,20,52,5,"Home Appliances, Outdoor Gear, Fitness Equipment",Checkout,2
+1397,Rahul Deshmukh,44,Male,Low,One-time,Loyal,Mumbai,Health Conscious,Fitness Equipment,19,47,10,Outdoor Gear,Product Page,4
+1398,Rahul Deshmukh,40,Female,Middle,One-time,Lost,Jaipur,Fitness Enthusiast,Clothing,18,29,6,"Home Appliances, Electronics",Category Page,5
+1399,Kavita Joshi,29,Male,Low,Occasional,New,Hyderabad,Luxury Shopper,Fashion,13,18,3,Clothing,Product Page,4
+1400,Anjali Verma,56,Male,Low,Frequent,Lost,Pune,Tech Savvy,Outdoor Gear,5,58,7,"Fashion, Home Appliances, Health Supplements",Checkout,1
+1401,Priya Sharma,38,Female,Middle,Frequent,New,Nagpur,Fashion Enthusiast,Electronics,5,57,7,"Electronics, Fitness Equipment, Clothing",Product Page,5
+1402,Amit Patel,60,Male,Middle,Occasional,Lost,Chennai,Adventure Seeker,Fitness Equipment,19,47,4,"Health Supplements, Fitness Equipment, Outdoor Gear",Checkout,3
+1403,Anjali Verma,21,Male,High,Occasional,Loyal,Pune,Bargain Hunter,Electronics,20,56,9,"Electronics, Fashion, Home Appliances",Product Page,4
+1404,Vikram Reddy,28,Male,Middle,Frequent,Lost,Ahmedabad,Bargain Hunter,Health Supplements,9,60,8,"Electronics, Fitness Equipment, Fashion",Checkout,4
+1405,Priya Sharma,21,Female,Low,Frequent,Loyal,Ahmedabad,Fitness Enthusiast,Clothing,20,10,9,"Fashion, Home Appliances",Checkout,2
+1406,Amit Patel,43,Male,Middle,Frequent,Loyal,Ahmedabad,Fashion Enthusiast,Fitness Equipment,12,60,3,"Outdoor Gear, Clothing",Category Page,1
+1407,Neha Gupta,39,Female,High,Occasional,New,Hyderabad,Health Conscious,Fashion,7,52,1,"Electronics, Fashion, Clothing",Product Page,1
+1408,Vikram Reddy,48,Female,Low,One-time,Lost,Kolkata,Fitness Enthusiast,Fitness Equipment,12,55,5,Fitness Equipment,Checkout,2
+1409,Pooja Mehta,52,Female,Low,One-time,Lost,Mumbai,Adventure Seeker,Electronics,15,11,10,"Fashion, Fitness Equipment",Category Page,2
+1410,Neha Gupta,58,Male,High,Occasional,Loyal,Mumbai,Fashion Enthusiast,Health Supplements,9,46,7,"Electronics, Outdoor Gear",Category Page,2
+1411,Priya Sharma,30,Male,High,One-time,Lost,Hyderabad,Adventure Seeker,Fitness Equipment,17,5,3,"Outdoor Gear, Fashion, Health Supplements",Checkout,1
+1412,Kavita Joshi,51,Male,Middle,Frequent,Loyal,Nagpur,Fitness Enthusiast,Home Appliances,18,31,3,Outdoor Gear,Category Page,3
+1413,Priya Sharma,56,Male,High,Occasional,Lost,Nagpur,Fashion Enthusiast,Clothing,13,22,3,"Fashion, Electronics, Fitness Equipment",Category Page,1
+1414,Neha Gupta,58,Male,High,One-time,New,Delhi,Adventure Seeker,Fitness Equipment,10,51,3,"Fashion, Fitness Equipment",Product Page,4
+1415,Rahul Deshmukh,50,Male,High,Frequent,Lost,Mumbai,Fitness Enthusiast,Fitness Equipment,20,13,1,Outdoor Gear,Checkout,4
+1416,Priya Sharma,22,Male,Low,Frequent,Lost,Kolkata,Tech Savvy,Fashion,7,15,3,Outdoor Gear,Product Page,2
+1417,Rajesh Kumar,42,Female,High,Frequent,Loyal,Pune,Tech Savvy,Fashion,18,42,10,"Health Supplements, Outdoor Gear",Category Page,1
+1418,Kavita Joshi,22,Male,Middle,Occasional,New,Hyderabad,Tech Savvy,Outdoor Gear,11,21,6,"Health Supplements, Fashion, Electronics",Category Page,4
+1419,Rahul Deshmukh,25,Female,High,Occasional,New,Ahmedabad,Bargain Hunter,Outdoor Gear,19,51,1,Health Supplements,Checkout,2
+1420,Suresh Iyer,25,Male,Middle,Frequent,New,Nagpur,Health Conscious,Home Appliances,16,42,9,Health Supplements,Category Page,5
+1421,Anjali Verma,42,Male,Middle,Occasional,New,Jaipur,Adventure Seeker,Home Appliances,9,54,10,"Fitness Equipment, Home Appliances, Clothing",Category Page,4
+1422,Suresh Iyer,55,Female,Low,Occasional,Loyal,Pune,Fashion Enthusiast,Clothing,8,36,6,"Health Supplements, Electronics",Checkout,1
+1423,Pooja Mehta,28,Male,Middle,One-time,Loyal,Jaipur,Tech Savvy,Fitness Equipment,14,22,9,"Fitness Equipment, Outdoor Gear, Fashion",Category Page,5
+1424,Neha Gupta,53,Female,High,One-time,New,Kolkata,Health Conscious,Health Supplements,15,27,1,"Outdoor Gear, Home Appliances",Category Page,3
+1425,Priya Sharma,33,Female,Middle,Frequent,New,Kolkata,Fashion Enthusiast,Electronics,13,13,7,"Fashion, Fitness Equipment, Clothing",Checkout,1
+1426,Rajesh Kumar,21,Female,High,Occasional,Loyal,Ahmedabad,Tech Savvy,Electronics,3,18,1,Health Supplements,Product Page,4
+1427,Anjali Verma,42,Male,Low,Occasional,Lost,Kolkata,Tech Savvy,Clothing,3,32,2,Fashion,Product Page,1
+1428,Suresh Iyer,34,Female,High,Occasional,Loyal,Mumbai,Tech Savvy,Home Appliances,4,24,10,Fitness Equipment,Checkout,2
+1429,Rajesh Kumar,48,Male,High,One-time,Loyal,Delhi,Bargain Hunter,Electronics,7,36,6,"Fitness Equipment, Fashion, Health Supplements",Product Page,4
+1430,Vikram Reddy,53,Male,Low,Occasional,New,Kolkata,Bargain Hunter,Outdoor Gear,5,52,10,Health Supplements,Category Page,3
+1431,Neha Gupta,55,Male,Middle,Frequent,Lost,Kolkata,Tech Savvy,Electronics,10,46,3,"Electronics, Clothing",Product Page,4
+1432,Anjali Verma,35,Female,High,Occasional,New,Bangalore,Bargain Hunter,Health Supplements,15,7,4,"Home Appliances, Outdoor Gear, Health Supplements",Category Page,1
+1433,Anjali Verma,53,Female,Middle,One-time,New,Delhi,Health Conscious,Electronics,18,53,1,Outdoor Gear,Product Page,2
+1434,Priya Sharma,19,Female,Middle,Frequent,Loyal,Ahmedabad,Tech Savvy,Electronics,13,19,6,"Health Supplements, Outdoor Gear, Fashion",Checkout,3
+1435,Kavita Joshi,21,Female,Middle,Occasional,New,Pune,Health Conscious,Electronics,13,39,7,"Home Appliances, Fitness Equipment, Health Supplements",Product Page,1
+1436,Anjali Verma,32,Female,High,Frequent,Lost,Pune,Fashion Enthusiast,Health Supplements,16,14,6,"Fashion, Fitness Equipment, Health Supplements",Checkout,4
+1437,Rahul Deshmukh,40,Female,Low,Occasional,New,Jaipur,Adventure Seeker,Electronics,12,49,8,Electronics,Product Page,4
+1438,Neha Gupta,27,Female,Low,Occasional,New,Nagpur,Adventure Seeker,Outdoor Gear,12,19,2,"Outdoor Gear, Clothing, Electronics",Checkout,1
+1439,Suresh Iyer,48,Male,Low,Frequent,New,Hyderabad,Luxury Shopper,Outdoor Gear,16,20,10,"Electronics, Clothing, Fitness Equipment",Product Page,3
+1440,Pooja Mehta,50,Male,Low,Occasional,Lost,Chennai,Tech Savvy,Health Supplements,20,56,6,"Electronics, Fashion, Fitness Equipment",Category Page,4
+1441,Rahul Deshmukh,25,Male,Middle,Occasional,Lost,Bangalore,Fitness Enthusiast,Home Appliances,9,28,6,"Health Supplements, Fashion, Clothing",Category Page,5
+1442,Anjali Verma,20,Male,High,Frequent,New,Ahmedabad,Adventure Seeker,Electronics,16,10,1,"Electronics, Clothing",Product Page,5
+1443,Kavita Joshi,31,Female,High,Frequent,Loyal,Mumbai,Fashion Enthusiast,Home Appliances,12,28,3,"Fashion, Clothing, Home Appliances",Category Page,3
+1444,Rahul Deshmukh,43,Female,Low,One-time,Lost,Delhi,Adventure Seeker,Home Appliances,14,18,7,Electronics,Product Page,3
+1445,Anjali Verma,48,Male,High,Occasional,Lost,Bangalore,Health Conscious,Clothing,18,24,5,"Home Appliances, Electronics",Checkout,3
+1446,Kavita Joshi,43,Male,Low,Occasional,New,Hyderabad,Fashion Enthusiast,Clothing,17,20,10,"Clothing, Health Supplements",Checkout,4
+1447,Rajesh Kumar,40,Female,Middle,Frequent,Lost,Nagpur,Fashion Enthusiast,Clothing,18,8,4,Clothing,Category Page,2
+1448,Pooja Mehta,39,Male,High,One-time,New,Bangalore,Health Conscious,Home Appliances,3,35,1,"Electronics, Health Supplements, Outdoor Gear",Category Page,1
+1449,Anjali Verma,21,Male,Low,Frequent,Lost,Hyderabad,Fashion Enthusiast,Clothing,10,8,5,Home Appliances,Product Page,1
+1450,Vikram Reddy,49,Female,High,Frequent,New,Bangalore,Tech Savvy,Clothing,18,43,3,"Home Appliances, Health Supplements",Product Page,2
+1451,Rajesh Kumar,28,Female,Middle,One-time,Loyal,Chennai,Tech Savvy,Electronics,18,34,3,Clothing,Product Page,4
+1452,Amit Patel,49,Female,High,Occasional,Loyal,Chennai,Luxury Shopper,Outdoor Gear,12,29,6,"Clothing, Health Supplements",Category Page,1
+1453,Amit Patel,26,Female,High,Frequent,Loyal,Hyderabad,Fitness Enthusiast,Health Supplements,19,13,4,"Fitness Equipment, Outdoor Gear",Product Page,3
+1454,Amit Patel,29,Male,Low,Occasional,Loyal,Bangalore,Bargain Hunter,Health Supplements,16,22,2,Health Supplements,Product Page,1
+1455,Kavita Joshi,51,Male,Middle,Occasional,Lost,Delhi,Adventure Seeker,Fashion,18,58,9,Outdoor Gear,Checkout,2
+1456,Neha Gupta,57,Female,High,Occasional,Loyal,Kolkata,Fitness Enthusiast,Home Appliances,5,37,7,"Home Appliances, Fashion, Health Supplements",Category Page,3
+1457,Neha Gupta,34,Male,Middle,Occasional,Loyal,Bangalore,Fashion Enthusiast,Fashion,18,20,9,"Fashion, Clothing",Product Page,1
+1458,Priya Sharma,24,Female,Middle,Frequent,New,Mumbai,Tech Savvy,Outdoor Gear,17,25,4,"Electronics, Health Supplements, Outdoor Gear",Checkout,3
+1459,Neha Gupta,37,Female,High,Frequent,New,Nagpur,Adventure Seeker,Clothing,15,41,5,Outdoor Gear,Category Page,1
+1460,Suresh Iyer,18,Male,Low,Frequent,Lost,Delhi,Fashion Enthusiast,Fitness Equipment,5,11,9,"Outdoor Gear, Fashion",Product Page,3
+1461,Anjali Verma,35,Male,Middle,Occasional,Lost,Mumbai,Fashion Enthusiast,Health Supplements,14,33,8,"Fashion, Home Appliances, Electronics",Category Page,2
+1462,Rahul Deshmukh,20,Male,High,Occasional,Loyal,Mumbai,Tech Savvy,Fitness Equipment,13,32,1,Electronics,Category Page,4
+1463,Vikram Reddy,49,Female,High,Occasional,Lost,Hyderabad,Luxury Shopper,Clothing,11,45,3,"Home Appliances, Fitness Equipment",Category Page,3
+1464,Priya Sharma,22,Female,Middle,One-time,Loyal,Delhi,Adventure Seeker,Clothing,20,56,5,Electronics,Category Page,2
+1465,Amit Patel,19,Male,Low,Frequent,Lost,Nagpur,Bargain Hunter,Fitness Equipment,5,24,3,Fitness Equipment,Product Page,5
+1466,Amit Patel,40,Male,Low,Occasional,Loyal,Delhi,Fitness Enthusiast,Electronics,7,42,4,"Clothing, Home Appliances, Fitness Equipment",Category Page,4
+1467,Amit Patel,51,Female,Low,Frequent,Lost,Chennai,Bargain Hunter,Fitness Equipment,5,22,3,"Fitness Equipment, Fashion, Electronics",Checkout,4
+1468,Kavita Joshi,56,Male,Low,Occasional,Loyal,Pune,Adventure Seeker,Outdoor Gear,15,8,10,"Fitness Equipment, Electronics, Health Supplements",Checkout,2
+1469,Suresh Iyer,49,Female,High,Frequent,Loyal,Pune,Fashion Enthusiast,Clothing,19,17,9,Outdoor Gear,Product Page,5
+1470,Rahul Deshmukh,18,Male,Low,One-time,New,Hyderabad,Adventure Seeker,Fitness Equipment,18,39,1,"Clothing, Home Appliances",Category Page,5
+1471,Rahul Deshmukh,32,Female,Middle,Occasional,New,Ahmedabad,Bargain Hunter,Electronics,20,25,10,"Home Appliances, Fitness Equipment, Fashion",Checkout,2
+1472,Neha Gupta,30,Male,Low,One-time,New,Bangalore,Bargain Hunter,Outdoor Gear,7,20,9,Clothing,Checkout,1
+1473,Kavita Joshi,43,Male,Low,One-time,Lost,Jaipur,Health Conscious,Health Supplements,5,17,10,"Health Supplements, Home Appliances, Electronics",Category Page,2
+1474,Rajesh Kumar,33,Male,Middle,Occasional,New,Chennai,Fitness Enthusiast,Fitness Equipment,5,53,10,"Electronics, Health Supplements, Fitness Equipment",Category Page,3
+1475,Rahul Deshmukh,26,Female,High,Occasional,Loyal,Delhi,Bargain Hunter,Clothing,12,6,7,"Fashion, Electronics, Home Appliances",Checkout,1
+1476,Amit Patel,60,Male,Low,One-time,Lost,Ahmedabad,Bargain Hunter,Fashion,13,10,4,"Fashion, Fitness Equipment",Product Page,3
+1477,Anjali Verma,22,Female,Middle,One-time,Lost,Chennai,Adventure Seeker,Electronics,12,35,5,"Fitness Equipment, Clothing, Fashion",Category Page,3
+1478,Pooja Mehta,46,Male,High,One-time,New,Nagpur,Tech Savvy,Fitness Equipment,12,50,10,Health Supplements,Product Page,2
+1479,Priya Sharma,39,Male,High,Occasional,New,Pune,Tech Savvy,Home Appliances,7,55,4,"Clothing, Health Supplements, Fitness Equipment",Product Page,3
+1480,Suresh Iyer,46,Female,High,Occasional,New,Hyderabad,Tech Savvy,Fitness Equipment,13,51,8,"Outdoor Gear, Health Supplements",Category Page,2
+1481,Priya Sharma,42,Female,High,One-time,New,Pune,Health Conscious,Clothing,5,52,3,"Clothing, Health Supplements",Checkout,2
+1482,Priya Sharma,59,Female,High,Occasional,New,Mumbai,Luxury Shopper,Fitness Equipment,11,8,9,"Clothing, Fitness Equipment",Product Page,2
+1483,Rajesh Kumar,58,Female,Middle,One-time,New,Pune,Tech Savvy,Fitness Equipment,12,54,5,"Outdoor Gear, Fitness Equipment",Category Page,4
+1484,Neha Gupta,59,Male,Middle,One-time,New,Delhi,Tech Savvy,Fitness Equipment,7,51,3,"Fitness Equipment, Clothing, Home Appliances",Product Page,3
+1485,Kavita Joshi,49,Female,Low,Frequent,Lost,Mumbai,Health Conscious,Clothing,17,56,10,Clothing,Checkout,5
+1486,Rahul Deshmukh,38,Male,Low,Occasional,New,Mumbai,Luxury Shopper,Home Appliances,20,12,4,"Electronics, Outdoor Gear",Checkout,4
+1487,Kavita Joshi,42,Female,Middle,Occasional,Lost,Chennai,Tech Savvy,Health Supplements,4,45,2,"Electronics, Home Appliances, Fitness Equipment",Product Page,2
+1488,Neha Gupta,60,Female,Low,Occasional,Lost,Ahmedabad,Luxury Shopper,Clothing,10,49,2,"Health Supplements, Home Appliances",Checkout,4
+1489,Vikram Reddy,28,Male,Middle,Occasional,Loyal,Mumbai,Bargain Hunter,Fashion,18,46,5,"Outdoor Gear, Health Supplements, Fitness Equipment",Checkout,2
+1490,Kavita Joshi,38,Male,Middle,Frequent,Loyal,Ahmedabad,Fitness Enthusiast,Clothing,9,50,8,"Health Supplements, Fitness Equipment, Fashion",Checkout,4
+1491,Vikram Reddy,25,Male,Middle,Frequent,Loyal,Ahmedabad,Luxury Shopper,Clothing,13,16,2,"Outdoor Gear, Fashion, Fitness Equipment",Checkout,1
+1492,Vikram Reddy,58,Male,High,Occasional,Lost,Pune,Bargain Hunter,Outdoor Gear,14,25,2,"Electronics, Health Supplements",Checkout,5
+1493,Kavita Joshi,42,Male,High,Frequent,Lost,Jaipur,Fashion Enthusiast,Health Supplements,19,20,9,"Home Appliances, Fitness Equipment, Electronics",Category Page,4
+1494,Rajesh Kumar,29,Male,Middle,Occasional,New,Ahmedabad,Health Conscious,Electronics,17,17,2,"Home Appliances, Electronics",Category Page,4
+1495,Anjali Verma,55,Male,High,Occasional,New,Chennai,Adventure Seeker,Health Supplements,12,59,2,Electronics,Checkout,1
+1496,Amit Patel,56,Male,Low,Occasional,New,Mumbai,Fashion Enthusiast,Fashion,13,55,9,Home Appliances,Product Page,4
+1497,Neha Gupta,36,Male,Low,Occasional,Lost,Delhi,Adventure Seeker,Clothing,14,20,7,Outdoor Gear,Product Page,3
+1498,Suresh Iyer,36,Female,Middle,Occasional,New,Bangalore,Luxury Shopper,Outdoor Gear,16,16,10,"Electronics, Clothing",Checkout,4
+1499,Vikram Reddy,23,Female,High,Occasional,Lost,Hyderabad,Health Conscious,Electronics,3,25,7,"Clothing, Electronics",Product Page,3
+1500,Rajesh Kumar,30,Male,Low,Frequent,Loyal,Delhi,Fashion Enthusiast,Electronics,10,44,8,"Fashion, Electronics, Home Appliances",Category Page,4
+1501,Priya Sharma,57,Male,High,Occasional,New,Pune,Bargain Hunter,Electronics,9,18,2,"Fashion, Health Supplements",Product Page,4
+1502,Pooja Mehta,60,Male,Low,Frequent,Loyal,Kolkata,Bargain Hunter,Fashion,19,52,6,"Fashion, Home Appliances",Product Page,5
+1503,Rahul Deshmukh,41,Male,Low,Frequent,Lost,Hyderabad,Adventure Seeker,Fashion,6,59,4,"Outdoor Gear, Health Supplements, Fashion",Product Page,2
+1504,Kavita Joshi,35,Male,Middle,Occasional,Loyal,Kolkata,Fitness Enthusiast,Outdoor Gear,17,19,1,Clothing,Checkout,3
+1505,Pooja Mehta,40,Female,Middle,Frequent,Lost,Delhi,Bargain Hunter,Fitness Equipment,4,7,5,Health Supplements,Category Page,4
+1506,Priya Sharma,26,Male,High,Frequent,New,Mumbai,Fitness Enthusiast,Home Appliances,3,11,4,Fashion,Product Page,3
+1507,Vikram Reddy,52,Female,Middle,Frequent,Lost,Delhi,Luxury Shopper,Clothing,11,54,10,"Clothing, Outdoor Gear, Home Appliances",Checkout,4
+1508,Amit Patel,35,Male,High,One-time,New,Kolkata,Adventure Seeker,Outdoor Gear,4,31,5,"Clothing, Home Appliances",Product Page,4
+1509,Pooja Mehta,37,Female,Middle,One-time,Lost,Jaipur,Fashion Enthusiast,Health Supplements,16,40,4,"Clothing, Fashion",Product Page,4
+1510,Anjali Verma,54,Female,Low,Occasional,Lost,Nagpur,Tech Savvy,Health Supplements,3,20,2,Health Supplements,Checkout,1
+1511,Suresh Iyer,34,Male,High,One-time,Loyal,Nagpur,Bargain Hunter,Health Supplements,9,29,7,Health Supplements,Category Page,3
+1512,Anjali Verma,30,Female,Low,One-time,Loyal,Kolkata,Bargain Hunter,Clothing,19,9,4,"Fashion, Outdoor Gear, Fitness Equipment",Checkout,1
+1513,Priya Sharma,52,Female,Middle,Frequent,New,Chennai,Bargain Hunter,Home Appliances,11,46,4,"Home Appliances, Fitness Equipment",Category Page,1
+1514,Rahul Deshmukh,42,Male,Low,One-time,New,Hyderabad,Adventure Seeker,Electronics,9,18,10,Health Supplements,Checkout,1
+1515,Amit Patel,29,Male,Low,Frequent,Lost,Mumbai,Adventure Seeker,Electronics,7,26,9,"Home Appliances, Outdoor Gear, Health Supplements",Category Page,5
+1516,Neha Gupta,18,Male,High,Occasional,New,Jaipur,Tech Savvy,Clothing,4,52,8,"Fitness Equipment, Outdoor Gear, Home Appliances",Category Page,3
+1517,Kavita Joshi,49,Female,Middle,Occasional,Loyal,Delhi,Adventure Seeker,Health Supplements,6,22,4,Health Supplements,Category Page,4
+1518,Vikram Reddy,46,Male,Low,Frequent,Lost,Delhi,Adventure Seeker,Health Supplements,10,42,8,"Fashion, Fitness Equipment",Product Page,4
+1519,Anjali Verma,46,Male,High,One-time,Loyal,Nagpur,Health Conscious,Clothing,4,11,2,Electronics,Checkout,5
+1520,Vikram Reddy,34,Male,Middle,Occasional,New,Pune,Luxury Shopper,Fitness Equipment,5,45,10,"Electronics, Clothing",Category Page,3
+1521,Pooja Mehta,53,Male,Low,Frequent,New,Hyderabad,Luxury Shopper,Outdoor Gear,19,59,2,"Clothing, Electronics",Checkout,1
+1522,Rajesh Kumar,24,Male,High,Occasional,New,Delhi,Tech Savvy,Electronics,15,34,2,Outdoor Gear,Product Page,2
+1523,Kavita Joshi,21,Female,Middle,One-time,Loyal,Pune,Fashion Enthusiast,Health Supplements,10,15,1,"Clothing, Home Appliances, Health Supplements",Checkout,4
+1524,Priya Sharma,43,Female,Middle,One-time,New,Kolkata,Fitness Enthusiast,Clothing,19,17,3,"Electronics, Home Appliances",Category Page,5
+1525,Amit Patel,48,Female,Low,One-time,New,Bangalore,Fashion Enthusiast,Home Appliances,10,46,8,Clothing,Checkout,4
+1526,Pooja Mehta,44,Female,Middle,Frequent,Lost,Hyderabad,Tech Savvy,Outdoor Gear,16,41,2,Fashion,Checkout,1
+1527,Vikram Reddy,42,Female,Middle,Frequent,New,Mumbai,Fashion Enthusiast,Electronics,3,28,4,"Fashion, Home Appliances, Outdoor Gear",Product Page,2
+1528,Kavita Joshi,37,Female,Middle,Frequent,Loyal,Mumbai,Luxury Shopper,Clothing,7,60,2,"Outdoor Gear, Health Supplements, Home Appliances",Checkout,2
+1529,Amit Patel,53,Female,Low,Frequent,Lost,Kolkata,Bargain Hunter,Fashion,16,17,8,"Clothing, Fitness Equipment",Category Page,1
+1530,Vikram Reddy,27,Male,Low,Frequent,Loyal,Mumbai,Adventure Seeker,Fitness Equipment,5,13,9,"Clothing, Electronics, Home Appliances",Product Page,2
+1531,Pooja Mehta,57,Male,Low,One-time,New,Kolkata,Luxury Shopper,Electronics,13,17,7,Health Supplements,Product Page,5
+1532,Suresh Iyer,30,Male,High,Occasional,Lost,Jaipur,Adventure Seeker,Outdoor Gear,19,60,7,"Fashion, Health Supplements",Category Page,2
+1533,Kavita Joshi,43,Male,Middle,Occasional,New,Pune,Fashion Enthusiast,Health Supplements,16,22,6,"Clothing, Fitness Equipment",Checkout,3
+1534,Neha Gupta,40,Female,Middle,One-time,New,Delhi,Adventure Seeker,Health Supplements,17,43,2,"Fitness Equipment, Outdoor Gear",Checkout,5
+1535,Vikram Reddy,54,Male,Low,Occasional,Lost,Mumbai,Tech Savvy,Home Appliances,5,19,1,"Outdoor Gear, Fitness Equipment",Category Page,2
+1536,Anjali Verma,24,Male,High,Occasional,Loyal,Kolkata,Bargain Hunter,Outdoor Gear,10,59,8,Home Appliances,Category Page,1
+1537,Anjali Verma,33,Male,Middle,Occasional,New,Mumbai,Fashion Enthusiast,Health Supplements,12,46,5,"Outdoor Gear, Clothing",Product Page,4
+1538,Vikram Reddy,46,Female,High,One-time,Loyal,Nagpur,Bargain Hunter,Health Supplements,10,15,10,"Clothing, Outdoor Gear, Home Appliances",Checkout,1
+1539,Rahul Deshmukh,47,Female,Middle,One-time,Lost,Pune,Adventure Seeker,Health Supplements,11,17,6,Outdoor Gear,Category Page,2
+1540,Anjali Verma,39,Female,Middle,Frequent,Loyal,Nagpur,Tech Savvy,Outdoor Gear,11,23,9,"Fitness Equipment, Outdoor Gear",Checkout,4
+1541,Suresh Iyer,27,Male,High,One-time,Loyal,Ahmedabad,Fashion Enthusiast,Health Supplements,20,59,5,"Home Appliances, Fashion",Checkout,2
+1542,Kavita Joshi,24,Female,Low,Frequent,Loyal,Jaipur,Bargain Hunter,Home Appliances,9,28,5,"Home Appliances, Clothing",Category Page,5
+1543,Rajesh Kumar,52,Male,High,Frequent,Loyal,Ahmedabad,Tech Savvy,Outdoor Gear,15,50,2,"Outdoor Gear, Health Supplements",Checkout,3
+1544,Neha Gupta,28,Female,Middle,One-time,Loyal,Jaipur,Luxury Shopper,Health Supplements,7,44,8,"Home Appliances, Clothing",Product Page,1
+1545,Neha Gupta,45,Female,High,Frequent,Loyal,Bangalore,Tech Savvy,Outdoor Gear,13,58,4,"Electronics, Outdoor Gear",Product Page,2
+1546,Suresh Iyer,50,Female,Low,Frequent,Lost,Delhi,Adventure Seeker,Fashion,9,26,7,Outdoor Gear,Category Page,4
+1547,Amit Patel,33,Male,High,One-time,Lost,Chennai,Luxury Shopper,Home Appliances,6,22,4,Electronics,Product Page,1
+1548,Priya Sharma,23,Male,Middle,One-time,Lost,Bangalore,Health Conscious,Health Supplements,8,8,2,"Clothing, Electronics, Fitness Equipment",Category Page,5
+1549,Suresh Iyer,37,Male,High,One-time,New,Ahmedabad,Luxury Shopper,Clothing,15,60,8,Outdoor Gear,Product Page,5
+1550,Priya Sharma,53,Female,High,One-time,Lost,Kolkata,Health Conscious,Electronics,14,52,6,"Fashion, Clothing, Electronics",Product Page,5
+1551,Kavita Joshi,51,Female,High,Occasional,Lost,Delhi,Fitness Enthusiast,Health Supplements,9,12,2,Electronics,Checkout,2
+1552,Anjali Verma,56,Female,Middle,Frequent,Lost,Mumbai,Tech Savvy,Electronics,10,44,5,Electronics,Checkout,1
+1553,Pooja Mehta,22,Female,High,Frequent,Loyal,Bangalore,Fitness Enthusiast,Health Supplements,16,50,1,"Fitness Equipment, Clothing",Category Page,3
+1554,Priya Sharma,56,Female,High,Frequent,Loyal,Bangalore,Bargain Hunter,Outdoor Gear,7,43,4,Clothing,Checkout,4
+1555,Anjali Verma,21,Male,Middle,Frequent,New,Bangalore,Adventure Seeker,Clothing,9,55,7,"Outdoor Gear, Home Appliances",Checkout,2
+1556,Rajesh Kumar,47,Female,Low,Occasional,New,Mumbai,Health Conscious,Fitness Equipment,14,28,8,"Fashion, Home Appliances",Category Page,4
+1557,Rahul Deshmukh,22,Male,Low,One-time,New,Delhi,Luxury Shopper,Outdoor Gear,20,17,4,Outdoor Gear,Category Page,2
+1558,Anjali Verma,40,Male,Middle,Frequent,Loyal,Jaipur,Luxury Shopper,Fashion,18,32,9,Clothing,Checkout,4
+1559,Priya Sharma,35,Female,High,One-time,Lost,Pune,Bargain Hunter,Home Appliances,17,42,2,Home Appliances,Product Page,5
+1560,Anjali Verma,47,Female,Low,Occasional,Loyal,Ahmedabad,Health Conscious,Clothing,11,37,5,"Fashion, Home Appliances, Clothing",Category Page,2
+1561,Neha Gupta,40,Male,Low,Occasional,Lost,Delhi,Bargain Hunter,Clothing,18,59,8,"Outdoor Gear, Home Appliances, Health Supplements",Category Page,1
+1562,Rahul Deshmukh,57,Male,Low,Frequent,Lost,Kolkata,Health Conscious,Electronics,15,50,1,"Electronics, Health Supplements, Home Appliances",Checkout,4
+1563,Vikram Reddy,47,Female,Middle,Occasional,Lost,Jaipur,Fitness Enthusiast,Electronics,14,34,6,Health Supplements,Product Page,4
+1564,Neha Gupta,46,Female,Low,Frequent,New,Hyderabad,Health Conscious,Home Appliances,9,52,9,"Outdoor Gear, Clothing, Home Appliances",Category Page,4
+1565,Neha Gupta,20,Male,High,Occasional,Lost,Kolkata,Tech Savvy,Fashion,19,11,5,"Electronics, Fashion, Outdoor Gear",Product Page,3
+1566,Amit Patel,49,Male,Middle,Occasional,Lost,Bangalore,Fitness Enthusiast,Fashion,19,56,3,"Fitness Equipment, Outdoor Gear, Electronics",Checkout,3
+1567,Neha Gupta,40,Male,Low,Occasional,New,Pune,Bargain Hunter,Electronics,18,60,3,"Clothing, Outdoor Gear",Checkout,2
+1568,Amit Patel,56,Male,Low,Frequent,Loyal,Mumbai,Health Conscious,Outdoor Gear,14,46,8,"Electronics, Health Supplements, Home Appliances",Category Page,4
+1569,Rajesh Kumar,54,Male,High,Frequent,Loyal,Kolkata,Bargain Hunter,Electronics,10,25,4,Electronics,Checkout,2
+1570,Vikram Reddy,50,Female,High,Occasional,Loyal,Bangalore,Health Conscious,Health Supplements,13,43,10,Outdoor Gear,Product Page,2
+1571,Anjali Verma,56,Female,Low,Occasional,Loyal,Delhi,Fashion Enthusiast,Health Supplements,15,58,4,"Clothing, Outdoor Gear",Checkout,1
+1572,Suresh Iyer,59,Male,Low,Frequent,Lost,Nagpur,Tech Savvy,Fitness Equipment,16,50,8,"Health Supplements, Outdoor Gear, Electronics",Category Page,3
+1573,Neha Gupta,56,Male,Middle,One-time,Loyal,Mumbai,Fashion Enthusiast,Electronics,9,21,6,"Home Appliances, Health Supplements, Fashion",Category Page,1
+1574,Priya Sharma,59,Male,High,One-time,Lost,Kolkata,Fashion Enthusiast,Outdoor Gear,4,15,3,"Health Supplements, Electronics, Fashion",Category Page,5
+1575,Suresh Iyer,28,Female,Low,Occasional,Lost,Hyderabad,Tech Savvy,Fitness Equipment,19,7,6,Health Supplements,Product Page,3
+1576,Priya Sharma,31,Male,Middle,One-time,Lost,Nagpur,Fashion Enthusiast,Fashion,10,50,2,"Health Supplements, Home Appliances",Product Page,2
+1577,Rajesh Kumar,41,Male,Low,One-time,Lost,Hyderabad,Fitness Enthusiast,Electronics,5,38,6,"Electronics, Fashion",Checkout,3
+1578,Vikram Reddy,19,Female,High,One-time,Loyal,Mumbai,Adventure Seeker,Home Appliances,8,22,6,"Health Supplements, Fashion, Electronics",Category Page,2
+1579,Anjali Verma,57,Male,Middle,Occasional,New,Chennai,Fashion Enthusiast,Outdoor Gear,12,29,6,"Health Supplements, Clothing, Electronics",Checkout,5
+1580,Pooja Mehta,28,Male,Middle,Frequent,Loyal,Hyderabad,Fitness Enthusiast,Health Supplements,8,51,6,"Fashion, Fitness Equipment",Category Page,3
+1581,Neha Gupta,25,Female,High,One-time,Lost,Hyderabad,Fashion Enthusiast,Clothing,7,40,1,"Health Supplements, Outdoor Gear",Category Page,1
+1582,Vikram Reddy,40,Female,Middle,One-time,Loyal,Delhi,Health Conscious,Fashion,7,50,8,"Fashion, Health Supplements",Product Page,3
+1583,Kavita Joshi,60,Male,High,One-time,Loyal,Hyderabad,Adventure Seeker,Health Supplements,9,13,7,"Home Appliances, Health Supplements, Fitness Equipment",Checkout,1
+1584,Vikram Reddy,55,Female,Low,Frequent,Lost,Bangalore,Health Conscious,Fitness Equipment,13,14,8,Fitness Equipment,Product Page,5
+1585,Neha Gupta,41,Male,High,Occasional,Lost,Delhi,Fitness Enthusiast,Health Supplements,20,13,1,"Home Appliances, Clothing",Category Page,1
+1586,Rahul Deshmukh,28,Female,Low,Frequent,New,Chennai,Bargain Hunter,Fashion,8,58,10,Clothing,Checkout,3
+1587,Kavita Joshi,18,Male,Low,Occasional,New,Kolkata,Tech Savvy,Fashion,10,34,6,"Fitness Equipment, Outdoor Gear, Electronics",Checkout,2
+1588,Kavita Joshi,55,Male,High,One-time,Lost,Nagpur,Health Conscious,Clothing,13,56,5,"Electronics, Clothing, Outdoor Gear",Category Page,1
+1589,Rajesh Kumar,53,Female,Middle,One-time,Loyal,Nagpur,Fitness Enthusiast,Fashion,11,27,5,"Electronics, Home Appliances",Product Page,1
+1590,Suresh Iyer,55,Female,High,One-time,Lost,Nagpur,Adventure Seeker,Health Supplements,13,45,6,"Health Supplements, Fitness Equipment, Electronics",Category Page,5
+1591,Kavita Joshi,27,Female,High,One-time,Loyal,Pune,Bargain Hunter,Health Supplements,14,23,7,"Electronics, Health Supplements",Checkout,4
+1592,Vikram Reddy,49,Male,Low,One-time,Loyal,Delhi,Adventure Seeker,Electronics,5,60,9,"Clothing, Fashion, Outdoor Gear",Category Page,3
+1593,Suresh Iyer,40,Female,Middle,One-time,New,Jaipur,Fashion Enthusiast,Home Appliances,10,5,4,"Clothing, Fitness Equipment",Product Page,5
+1594,Vikram Reddy,43,Male,Middle,Occasional,New,Jaipur,Luxury Shopper,Home Appliances,12,38,2,Fitness Equipment,Product Page,2
+1595,Amit Patel,53,Male,Middle,Frequent,Loyal,Ahmedabad,Health Conscious,Fitness Equipment,5,52,6,Fitness Equipment,Checkout,4
+1596,Rajesh Kumar,57,Female,High,Occasional,New,Hyderabad,Adventure Seeker,Fashion,15,41,3,Fitness Equipment,Category Page,4
+1597,Kavita Joshi,21,Male,High,One-time,Loyal,Nagpur,Luxury Shopper,Outdoor Gear,6,59,9,"Clothing, Electronics",Category Page,1
+1598,Neha Gupta,53,Female,Middle,Frequent,Loyal,Kolkata,Tech Savvy,Electronics,5,47,7,"Fitness Equipment, Home Appliances",Product Page,3
+1599,Suresh Iyer,35,Male,Middle,Occasional,New,Ahmedabad,Bargain Hunter,Health Supplements,6,19,1,Fitness Equipment,Product Page,5
+1600,Anjali Verma,27,Male,Middle,Occasional,Lost,Delhi,Tech Savvy,Electronics,3,35,4,Outdoor Gear,Product Page,5
+1601,Rajesh Kumar,55,Male,High,Frequent,New,Bangalore,Adventure Seeker,Electronics,16,53,9,"Outdoor Gear, Health Supplements, Electronics",Product Page,1
+1602,Anjali Verma,48,Male,Low,Occasional,Lost,Jaipur,Fashion Enthusiast,Clothing,11,43,9,"Fashion, Electronics",Checkout,4
+1603,Pooja Mehta,60,Male,Low,One-time,Lost,Pune,Luxury Shopper,Fashion,11,20,2,"Clothing, Health Supplements",Product Page,5
+1604,Vikram Reddy,33,Male,Middle,Frequent,New,Bangalore,Tech Savvy,Outdoor Gear,9,23,8,"Health Supplements, Fitness Equipment, Electronics",Checkout,4
+1605,Amit Patel,60,Male,Low,Occasional,Lost,Delhi,Luxury Shopper,Fashion,6,36,8,"Fashion, Fitness Equipment, Electronics",Category Page,3
+1606,Vikram Reddy,27,Male,Low,One-time,New,Kolkata,Tech Savvy,Clothing,7,5,7,"Home Appliances, Fitness Equipment",Product Page,5
+1607,Rahul Deshmukh,40,Female,High,Occasional,Loyal,Kolkata,Fashion Enthusiast,Fashion,16,17,4,"Clothing, Outdoor Gear",Checkout,4
+1608,Vikram Reddy,56,Male,Low,Occasional,Lost,Bangalore,Fitness Enthusiast,Clothing,3,26,7,"Home Appliances, Outdoor Gear, Clothing",Category Page,1
+1609,Amit Patel,47,Female,Middle,Frequent,Lost,Mumbai,Bargain Hunter,Electronics,17,21,2,"Outdoor Gear, Fitness Equipment",Category Page,3
+1610,Vikram Reddy,41,Male,Low,One-time,New,Nagpur,Fashion Enthusiast,Fashion,19,17,1,"Fitness Equipment, Health Supplements, Home Appliances",Checkout,3
+1611,Priya Sharma,48,Male,High,One-time,Loyal,Chennai,Adventure Seeker,Clothing,17,28,8,"Fitness Equipment, Home Appliances",Product Page,1
+1612,Priya Sharma,29,Female,Low,One-time,Lost,Kolkata,Fashion Enthusiast,Outdoor Gear,6,58,7,"Health Supplements, Outdoor Gear",Product Page,4
+1613,Anjali Verma,23,Female,Low,Frequent,New,Chennai,Fitness Enthusiast,Fashion,9,50,8,"Health Supplements, Fashion",Checkout,4
+1614,Pooja Mehta,55,Male,Low,Occasional,Lost,Ahmedabad,Fitness Enthusiast,Fashion,8,45,6,Home Appliances,Category Page,4
+1615,Vikram Reddy,39,Female,High,Frequent,Loyal,Pune,Tech Savvy,Clothing,16,10,10,"Home Appliances, Outdoor Gear, Clothing",Checkout,3
+1616,Rajesh Kumar,20,Female,High,One-time,New,Bangalore,Luxury Shopper,Health Supplements,18,35,10,"Home Appliances, Electronics",Category Page,4
+1617,Kavita Joshi,56,Male,High,One-time,New,Ahmedabad,Fitness Enthusiast,Health Supplements,17,58,3,"Health Supplements, Electronics, Outdoor Gear",Category Page,3
+1618,Amit Patel,42,Male,High,Frequent,Loyal,Jaipur,Bargain Hunter,Fashion,7,42,9,"Fashion, Outdoor Gear",Product Page,1
+1619,Priya Sharma,44,Male,High,Occasional,Loyal,Delhi,Fitness Enthusiast,Health Supplements,16,24,1,Fitness Equipment,Category Page,4
+1620,Vikram Reddy,59,Female,Middle,One-time,New,Delhi,Luxury Shopper,Health Supplements,3,56,10,Outdoor Gear,Category Page,1
+1621,Rahul Deshmukh,22,Female,Middle,Occasional,Loyal,Mumbai,Luxury Shopper,Fitness Equipment,20,7,2,"Fitness Equipment, Outdoor Gear, Health Supplements",Checkout,4
+1622,Rajesh Kumar,56,Female,High,One-time,New,Nagpur,Fitness Enthusiast,Fashion,10,33,6,Clothing,Checkout,3
+1623,Pooja Mehta,37,Female,High,Frequent,Loyal,Ahmedabad,Fashion Enthusiast,Fashion,12,26,4,"Electronics, Outdoor Gear",Checkout,1
+1624,Pooja Mehta,58,Female,Middle,Occasional,Loyal,Chennai,Adventure Seeker,Fashion,10,45,5,Health Supplements,Category Page,3
+1625,Rahul Deshmukh,24,Female,High,Occasional,Loyal,Kolkata,Fashion Enthusiast,Health Supplements,4,43,7,"Home Appliances, Fitness Equipment",Checkout,1
+1626,Amit Patel,22,Female,High,One-time,Lost,Chennai,Fitness Enthusiast,Health Supplements,19,7,5,"Outdoor Gear, Home Appliances",Category Page,1
+1627,Rajesh Kumar,39,Female,High,Frequent,Lost,Ahmedabad,Fashion Enthusiast,Electronics,4,6,1,"Health Supplements, Fashion",Checkout,1
+1628,Amit Patel,18,Female,Middle,One-time,Lost,Jaipur,Adventure Seeker,Health Supplements,9,6,3,"Health Supplements, Fashion, Clothing",Category Page,3
+1629,Vikram Reddy,30,Male,Middle,One-time,Loyal,Bangalore,Bargain Hunter,Clothing,16,10,8,Health Supplements,Product Page,5
+1630,Rajesh Kumar,55,Male,Low,Occasional,Loyal,Delhi,Adventure Seeker,Clothing,12,29,4,"Home Appliances, Clothing, Fashion",Product Page,2
+1631,Rahul Deshmukh,25,Male,Low,One-time,Loyal,Mumbai,Fitness Enthusiast,Fashion,10,45,4,Fitness Equipment,Product Page,5
+1632,Kavita Joshi,25,Female,High,One-time,Loyal,Nagpur,Adventure Seeker,Fitness Equipment,12,15,6,"Fitness Equipment, Health Supplements",Checkout,3
+1633,Rajesh Kumar,45,Male,High,Occasional,New,Chennai,Adventure Seeker,Clothing,20,39,9,Health Supplements,Category Page,4
+1634,Rahul Deshmukh,18,Male,High,Frequent,New,Chennai,Bargain Hunter,Clothing,17,6,3,"Outdoor Gear, Home Appliances, Health Supplements",Product Page,2
+1635,Vikram Reddy,53,Female,Low,Occasional,Loyal,Jaipur,Fitness Enthusiast,Fashion,3,33,1,Electronics,Category Page,2
+1636,Rajesh Kumar,47,Male,Middle,Frequent,New,Nagpur,Bargain Hunter,Home Appliances,17,51,7,"Clothing, Home Appliances, Electronics",Category Page,4
+1637,Suresh Iyer,41,Male,Low,Occasional,New,Jaipur,Tech Savvy,Fitness Equipment,8,14,4,"Clothing, Outdoor Gear, Home Appliances",Category Page,3
+1638,Anjali Verma,48,Male,Middle,Occasional,Loyal,Kolkata,Bargain Hunter,Fashion,4,46,3,"Electronics, Outdoor Gear, Health Supplements",Product Page,5
+1639,Amit Patel,38,Male,Middle,Frequent,Lost,Chennai,Adventure Seeker,Outdoor Gear,8,15,9,"Health Supplements, Outdoor Gear, Fitness Equipment",Product Page,1
+1640,Anjali Verma,42,Female,High,One-time,Loyal,Mumbai,Adventure Seeker,Electronics,10,24,4,"Home Appliances, Outdoor Gear",Category Page,2
+1641,Pooja Mehta,26,Male,High,Occasional,Loyal,Mumbai,Fitness Enthusiast,Home Appliances,10,42,5,"Health Supplements, Electronics, Home Appliances",Product Page,5
+1642,Vikram Reddy,21,Male,Low,Occasional,Lost,Hyderabad,Fashion Enthusiast,Fashion,4,20,4,Clothing,Product Page,3
+1643,Rajesh Kumar,53,Female,Middle,One-time,Lost,Ahmedabad,Luxury Shopper,Fashion,11,46,6,"Health Supplements, Home Appliances",Category Page,5
+1644,Priya Sharma,54,Female,Middle,Frequent,Lost,Mumbai,Adventure Seeker,Clothing,20,39,8,"Electronics, Outdoor Gear, Health Supplements",Checkout,1
+1645,Rahul Deshmukh,29,Female,Middle,Frequent,Lost,Chennai,Tech Savvy,Fashion,9,44,7,"Health Supplements, Home Appliances, Electronics",Product Page,3
+1646,Amit Patel,37,Male,High,Frequent,Loyal,Hyderabad,Adventure Seeker,Health Supplements,8,23,8,"Fashion, Home Appliances, Electronics",Category Page,3
+1647,Suresh Iyer,58,Male,Middle,Occasional,Lost,Hyderabad,Health Conscious,Home Appliances,4,45,1,Clothing,Category Page,2
+1648,Kavita Joshi,42,Male,Low,Occasional,Lost,Pune,Fitness Enthusiast,Electronics,20,37,3,"Clothing, Health Supplements, Electronics",Category Page,5
+1649,Pooja Mehta,43,Female,High,Frequent,New,Pune,Luxury Shopper,Outdoor Gear,14,53,4,"Health Supplements, Home Appliances",Category Page,4
+1650,Vikram Reddy,25,Female,Middle,Frequent,Loyal,Hyderabad,Adventure Seeker,Fashion,3,30,10,"Electronics, Outdoor Gear",Checkout,3
+1651,Suresh Iyer,23,Male,High,Occasional,New,Bangalore,Adventure Seeker,Fashion,13,25,3,"Fitness Equipment, Health Supplements",Checkout,4
+1652,Suresh Iyer,28,Male,Low,One-time,Loyal,Nagpur,Luxury Shopper,Health Supplements,19,57,3,"Fashion, Fitness Equipment, Outdoor Gear",Checkout,2
+1653,Rajesh Kumar,23,Female,Middle,One-time,New,Delhi,Fitness Enthusiast,Outdoor Gear,20,20,5,"Clothing, Health Supplements",Product Page,5
+1654,Kavita Joshi,29,Female,Middle,Frequent,Loyal,Hyderabad,Tech Savvy,Fashion,7,26,10,"Outdoor Gear, Fitness Equipment, Fashion",Product Page,4
+1655,Rajesh Kumar,45,Male,Low,One-time,New,Mumbai,Fashion Enthusiast,Health Supplements,3,18,5,"Electronics, Fitness Equipment, Fashion",Checkout,1
+1656,Vikram Reddy,58,Female,High,Frequent,Lost,Bangalore,Bargain Hunter,Electronics,13,21,9,"Fashion, Home Appliances, Clothing",Category Page,2
+1657,Suresh Iyer,56,Male,High,One-time,Loyal,Mumbai,Luxury Shopper,Fashion,9,26,6,"Fashion, Home Appliances",Product Page,4
+1658,Anjali Verma,54,Female,Middle,One-time,Lost,Ahmedabad,Health Conscious,Outdoor Gear,9,46,5,"Outdoor Gear, Fitness Equipment, Clothing",Checkout,5
+1659,Kavita Joshi,36,Female,Middle,Occasional,Loyal,Nagpur,Adventure Seeker,Fashion,3,16,2,"Clothing, Electronics",Checkout,4
+1660,Neha Gupta,60,Female,Low,Frequent,Loyal,Mumbai,Fashion Enthusiast,Health Supplements,18,15,5,"Outdoor Gear, Home Appliances",Checkout,3
+1661,Vikram Reddy,21,Female,Middle,Frequent,Lost,Kolkata,Tech Savvy,Home Appliances,10,60,10,"Outdoor Gear, Fashion",Product Page,3
+1662,Pooja Mehta,30,Male,High,Frequent,Lost,Delhi,Fashion Enthusiast,Electronics,15,25,1,"Fitness Equipment, Home Appliances",Product Page,5
+1663,Priya Sharma,53,Male,Middle,Frequent,Loyal,Pune,Adventure Seeker,Electronics,12,48,6,Electronics,Category Page,3
+1664,Rajesh Kumar,53,Male,Middle,Frequent,Loyal,Mumbai,Health Conscious,Electronics,4,45,10,Health Supplements,Category Page,4
+1665,Amit Patel,60,Female,High,Frequent,Lost,Hyderabad,Adventure Seeker,Fitness Equipment,9,30,3,"Fashion, Electronics",Product Page,2
+1666,Vikram Reddy,45,Male,Low,One-time,New,Delhi,Tech Savvy,Home Appliances,17,6,1,Health Supplements,Category Page,4
+1667,Neha Gupta,37,Female,High,One-time,New,Chennai,Adventure Seeker,Fitness Equipment,19,42,2,"Fashion, Fitness Equipment, Health Supplements",Checkout,3
+1668,Pooja Mehta,40,Female,High,Occasional,New,Bangalore,Adventure Seeker,Fitness Equipment,19,19,9,Clothing,Checkout,2
+1669,Anjali Verma,38,Male,Middle,Frequent,Lost,Kolkata,Health Conscious,Outdoor Gear,19,53,7,Home Appliances,Checkout,1
+1670,Neha Gupta,58,Female,Low,Occasional,Lost,Ahmedabad,Adventure Seeker,Home Appliances,17,60,10,"Outdoor Gear, Electronics",Category Page,2
+1671,Rajesh Kumar,19,Female,High,Frequent,New,Pune,Fashion Enthusiast,Fashion,15,15,4,Electronics,Category Page,3
+1672,Suresh Iyer,36,Male,Low,Occasional,New,Pune,Adventure Seeker,Home Appliances,15,31,8,"Health Supplements, Fitness Equipment, Fashion",Checkout,4
+1673,Rahul Deshmukh,50,Male,Low,One-time,New,Chennai,Tech Savvy,Health Supplements,13,59,5,"Outdoor Gear, Fashion",Category Page,2
+1674,Neha Gupta,55,Female,Middle,One-time,New,Mumbai,Luxury Shopper,Home Appliances,20,29,6,Outdoor Gear,Category Page,4
+1675,Rajesh Kumar,54,Female,Low,Frequent,Loyal,Hyderabad,Tech Savvy,Health Supplements,9,16,2,"Electronics, Health Supplements, Fitness Equipment",Product Page,5
+1676,Suresh Iyer,43,Male,Low,Occasional,New,Nagpur,Adventure Seeker,Fashion,3,16,5,Clothing,Checkout,3
+1677,Suresh Iyer,56,Male,Middle,Frequent,Loyal,Mumbai,Bargain Hunter,Clothing,17,34,3,"Health Supplements, Clothing",Checkout,3
+1678,Suresh Iyer,22,Male,Middle,One-time,New,Hyderabad,Adventure Seeker,Electronics,9,57,1,"Fashion, Health Supplements",Category Page,4
+1679,Amit Patel,40,Female,Low,One-time,Loyal,Hyderabad,Fitness Enthusiast,Fitness Equipment,6,14,5,"Clothing, Health Supplements, Outdoor Gear",Product Page,3
+1680,Neha Gupta,42,Male,Low,One-time,Loyal,Hyderabad,Bargain Hunter,Electronics,15,44,4,Fitness Equipment,Product Page,4
+1681,Amit Patel,20,Male,Low,Occasional,Lost,Delhi,Tech Savvy,Fitness Equipment,16,34,1,"Home Appliances, Fashion",Checkout,2
+1682,Rajesh Kumar,43,Male,Middle,Frequent,New,Mumbai,Bargain Hunter,Home Appliances,16,39,2,"Fitness Equipment, Outdoor Gear",Checkout,3
+1683,Kavita Joshi,28,Male,High,One-time,Loyal,Jaipur,Adventure Seeker,Clothing,20,29,7,"Clothing, Electronics, Fashion",Category Page,4
+1684,Kavita Joshi,47,Female,Middle,Occasional,New,Jaipur,Bargain Hunter,Outdoor Gear,19,9,3,Electronics,Product Page,1
+1685,Rahul Deshmukh,36,Male,High,Frequent,Lost,Chennai,Tech Savvy,Fitness Equipment,5,54,3,"Fitness Equipment, Health Supplements, Electronics",Category Page,5
+1686,Anjali Verma,39,Female,Low,Occasional,Lost,Nagpur,Luxury Shopper,Fashion,17,5,10,"Health Supplements, Outdoor Gear, Fashion",Checkout,3
+1687,Suresh Iyer,41,Male,High,One-time,Lost,Hyderabad,Tech Savvy,Home Appliances,10,37,7,Outdoor Gear,Category Page,2
+1688,Amit Patel,21,Female,Middle,Occasional,New,Hyderabad,Luxury Shopper,Home Appliances,12,6,1,Fashion,Product Page,3
+1689,Anjali Verma,44,Female,Middle,One-time,New,Hyderabad,Health Conscious,Fitness Equipment,15,17,7,"Fitness Equipment, Clothing, Home Appliances",Checkout,5
+1690,Rajesh Kumar,39,Male,High,One-time,New,Jaipur,Bargain Hunter,Fashion,11,24,8,"Outdoor Gear, Home Appliances",Checkout,3
+1691,Amit Patel,37,Female,High,One-time,New,Chennai,Health Conscious,Outdoor Gear,6,10,2,Home Appliances,Checkout,3
+1692,Rahul Deshmukh,53,Female,Low,Occasional,New,Hyderabad,Adventure Seeker,Fitness Equipment,3,14,2,Fashion,Checkout,2
+1693,Vikram Reddy,53,Female,Middle,Frequent,New,Mumbai,Adventure Seeker,Health Supplements,6,14,3,Health Supplements,Product Page,4
+1694,Amit Patel,25,Female,Low,Frequent,New,Nagpur,Health Conscious,Electronics,20,50,1,"Fashion, Electronics, Fitness Equipment",Product Page,5
+1695,Rahul Deshmukh,50,Female,Low,One-time,New,Delhi,Fashion Enthusiast,Electronics,8,39,10,Electronics,Product Page,5
+1696,Kavita Joshi,27,Female,Low,One-time,Lost,Nagpur,Luxury Shopper,Home Appliances,3,6,3,Health Supplements,Product Page,2
+1697,Suresh Iyer,46,Male,Middle,Frequent,Lost,Pune,Adventure Seeker,Outdoor Gear,13,60,9,Health Supplements,Category Page,3
+1698,Neha Gupta,59,Male,High,Occasional,Lost,Mumbai,Luxury Shopper,Home Appliances,12,34,5,"Fitness Equipment, Fashion, Health Supplements",Category Page,5
+1699,Amit Patel,45,Male,Middle,Frequent,Loyal,Hyderabad,Tech Savvy,Outdoor Gear,5,28,6,"Fitness Equipment, Clothing, Electronics",Checkout,3
+1700,Pooja Mehta,59,Male,Middle,One-time,Loyal,Jaipur,Tech Savvy,Clothing,14,54,6,"Fitness Equipment, Home Appliances, Electronics",Product Page,1
+1701,Suresh Iyer,37,Female,Low,Frequent,Loyal,Delhi,Adventure Seeker,Clothing,12,53,7,"Home Appliances, Electronics, Clothing",Checkout,3
+1702,Suresh Iyer,19,Male,High,Frequent,New,Delhi,Health Conscious,Fashion,5,14,6,"Clothing, Fashion, Electronics",Product Page,1
+1703,Anjali Verma,34,Female,High,Frequent,Lost,Mumbai,Luxury Shopper,Health Supplements,6,48,1,Electronics,Product Page,5
+1704,Rahul Deshmukh,45,Female,Middle,One-time,Lost,Delhi,Fitness Enthusiast,Outdoor Gear,16,53,7,"Electronics, Clothing",Product Page,2
+1705,Neha Gupta,29,Female,Middle,Occasional,New,Ahmedabad,Adventure Seeker,Clothing,9,52,10,"Outdoor Gear, Fashion, Health Supplements",Product Page,1
+1706,Anjali Verma,54,Male,High,Occasional,Lost,Nagpur,Bargain Hunter,Fashion,20,60,4,"Outdoor Gear, Home Appliances",Product Page,1
+1707,Kavita Joshi,29,Female,Low,Occasional,Loyal,Pune,Luxury Shopper,Fashion,9,6,5,Clothing,Product Page,5
+1708,Vikram Reddy,52,Female,High,Frequent,New,Jaipur,Fashion Enthusiast,Fashion,19,29,3,"Health Supplements, Electronics",Product Page,5
+1709,Vikram Reddy,23,Female,Low,Occasional,Lost,Nagpur,Adventure Seeker,Outdoor Gear,4,27,10,Fashion,Category Page,2
+1710,Rahul Deshmukh,46,Female,High,Frequent,Loyal,Jaipur,Bargain Hunter,Electronics,15,20,8,"Fitness Equipment, Outdoor Gear",Checkout,2
+1711,Vikram Reddy,48,Male,Low,One-time,New,Jaipur,Health Conscious,Fitness Equipment,9,24,1,Clothing,Product Page,3
+1712,Suresh Iyer,50,Male,Middle,One-time,Loyal,Ahmedabad,Bargain Hunter,Home Appliances,11,43,8,"Electronics, Home Appliances, Health Supplements",Checkout,3
+1713,Priya Sharma,30,Female,Low,Frequent,New,Kolkata,Luxury Shopper,Fitness Equipment,3,11,4,Outdoor Gear,Category Page,2
+1714,Rajesh Kumar,25,Male,Middle,One-time,New,Chennai,Tech Savvy,Fashion,7,30,10,Clothing,Category Page,2
+1715,Rahul Deshmukh,35,Female,High,Occasional,New,Chennai,Health Conscious,Fitness Equipment,9,35,4,"Health Supplements, Fitness Equipment",Product Page,3
+1716,Suresh Iyer,51,Female,Middle,Occasional,New,Mumbai,Fitness Enthusiast,Home Appliances,14,9,4,Clothing,Product Page,4
+1717,Kavita Joshi,30,Female,Middle,Frequent,Lost,Bangalore,Bargain Hunter,Home Appliances,6,21,6,"Electronics, Fashion, Health Supplements",Checkout,3
+1718,Rajesh Kumar,47,Male,Middle,Frequent,Lost,Nagpur,Fashion Enthusiast,Health Supplements,16,41,8,"Home Appliances, Clothing",Category Page,2
+1719,Kavita Joshi,37,Female,High,Frequent,Lost,Jaipur,Tech Savvy,Outdoor Gear,8,60,10,"Electronics, Fashion, Outdoor Gear",Category Page,5
+1720,Rajesh Kumar,35,Female,Middle,One-time,Lost,Pune,Tech Savvy,Clothing,9,6,2,"Health Supplements, Fashion, Outdoor Gear",Checkout,1
+1721,Vikram Reddy,28,Female,High,One-time,Lost,Ahmedabad,Adventure Seeker,Health Supplements,5,10,2,Home Appliances,Checkout,1
+1722,Suresh Iyer,18,Female,Middle,Frequent,Loyal,Jaipur,Adventure Seeker,Outdoor Gear,16,46,6,"Clothing, Home Appliances, Fashion",Product Page,4
+1723,Neha Gupta,23,Female,Middle,One-time,Loyal,Pune,Luxury Shopper,Health Supplements,6,40,8,Fashion,Product Page,5
+1724,Neha Gupta,56,Male,Low,One-time,New,Jaipur,Adventure Seeker,Electronics,10,52,9,"Fashion, Health Supplements",Category Page,2
+1725,Rahul Deshmukh,50,Male,High,One-time,New,Ahmedabad,Luxury Shopper,Clothing,4,28,10,"Home Appliances, Fashion, Outdoor Gear",Category Page,3
+1726,Priya Sharma,48,Female,High,One-time,Loyal,Nagpur,Adventure Seeker,Electronics,16,29,3,"Home Appliances, Outdoor Gear",Category Page,1
+1727,Neha Gupta,35,Male,Middle,Frequent,Lost,Nagpur,Adventure Seeker,Home Appliances,5,49,9,"Fashion, Clothing",Category Page,3
+1728,Anjali Verma,27,Male,High,One-time,Lost,Delhi,Tech Savvy,Health Supplements,3,56,9,Fashion,Checkout,2
+1729,Pooja Mehta,37,Female,Low,One-time,Loyal,Kolkata,Bargain Hunter,Health Supplements,3,19,1,Fashion,Product Page,3
+1730,Pooja Mehta,36,Female,High,Frequent,New,Ahmedabad,Fashion Enthusiast,Outdoor Gear,3,27,10,"Outdoor Gear, Health Supplements",Checkout,3
+1731,Suresh Iyer,40,Male,Middle,Frequent,New,Jaipur,Health Conscious,Fitness Equipment,4,19,3,"Clothing, Outdoor Gear",Checkout,3
+1732,Priya Sharma,55,Female,High,One-time,New,Nagpur,Adventure Seeker,Clothing,20,25,4,Outdoor Gear,Checkout,5
+1733,Anjali Verma,47,Female,Low,One-time,Loyal,Jaipur,Tech Savvy,Home Appliances,18,31,3,Fashion,Product Page,2
+1734,Anjali Verma,47,Male,Middle,Frequent,Lost,Chennai,Fitness Enthusiast,Clothing,7,50,8,"Fashion, Clothing, Home Appliances",Category Page,1
+1735,Neha Gupta,26,Male,High,Frequent,Lost,Bangalore,Bargain Hunter,Fashion,13,54,5,"Outdoor Gear, Home Appliances",Checkout,1
+1736,Rajesh Kumar,33,Female,Middle,Frequent,Loyal,Ahmedabad,Luxury Shopper,Clothing,15,9,3,Health Supplements,Checkout,3
+1737,Priya Sharma,23,Female,Low,One-time,Lost,Delhi,Luxury Shopper,Outdoor Gear,12,14,1,Outdoor Gear,Category Page,3
+1738,Amit Patel,37,Female,High,One-time,Lost,Jaipur,Fitness Enthusiast,Health Supplements,13,18,1,"Fashion, Outdoor Gear, Home Appliances",Product Page,2
+1739,Rajesh Kumar,18,Female,High,Frequent,Loyal,Bangalore,Health Conscious,Home Appliances,17,29,6,"Health Supplements, Fashion, Outdoor Gear",Checkout,1
+1740,Rahul Deshmukh,21,Female,Low,One-time,Lost,Pune,Adventure Seeker,Clothing,17,29,7,"Fitness Equipment, Electronics, Health Supplements",Category Page,1
+1741,Vikram Reddy,48,Male,Middle,One-time,Lost,Bangalore,Fitness Enthusiast,Health Supplements,20,42,2,"Electronics, Fitness Equipment, Home Appliances",Product Page,1
+1742,Amit Patel,26,Male,Middle,Occasional,Lost,Bangalore,Bargain Hunter,Fashion,16,42,3,"Outdoor Gear, Fitness Equipment, Clothing",Checkout,2
+1743,Suresh Iyer,50,Female,Middle,One-time,Loyal,Pune,Luxury Shopper,Home Appliances,19,18,7,Fashion,Checkout,4
+1744,Amit Patel,18,Male,Middle,Frequent,Lost,Chennai,Health Conscious,Electronics,8,25,6,"Clothing, Fashion",Checkout,1
+1745,Suresh Iyer,39,Female,Middle,Frequent,New,Ahmedabad,Luxury Shopper,Fashion,13,58,9,Home Appliances,Category Page,2
+1746,Pooja Mehta,34,Male,Low,Frequent,New,Pune,Tech Savvy,Health Supplements,6,53,10,Outdoor Gear,Category Page,5
+1747,Rajesh Kumar,27,Male,High,Frequent,Lost,Nagpur,Bargain Hunter,Fashion,16,45,6,"Electronics, Clothing",Product Page,4
+1748,Priya Sharma,35,Male,Low,Occasional,Lost,Pune,Fitness Enthusiast,Home Appliances,19,11,4,Fitness Equipment,Category Page,3
+1749,Vikram Reddy,56,Female,Middle,Frequent,Lost,Jaipur,Tech Savvy,Fashion,12,13,7,Health Supplements,Product Page,1
+1750,Priya Sharma,59,Female,High,Occasional,Loyal,Bangalore,Fashion Enthusiast,Home Appliances,4,12,7,"Health Supplements, Home Appliances",Product Page,1
+1751,Rajesh Kumar,26,Female,High,One-time,Lost,Nagpur,Bargain Hunter,Health Supplements,18,32,5,"Outdoor Gear, Fashion, Clothing",Category Page,2
+1752,Anjali Verma,52,Male,Middle,Occasional,Lost,Jaipur,Fitness Enthusiast,Electronics,16,6,7,"Clothing, Home Appliances, Fashion",Product Page,3
+1753,Priya Sharma,54,Female,High,One-time,Loyal,Mumbai,Fitness Enthusiast,Fashion,12,42,7,"Health Supplements, Clothing",Category Page,3
+1754,Kavita Joshi,52,Male,Low,Occasional,New,Jaipur,Adventure Seeker,Electronics,8,60,2,"Home Appliances, Fashion, Health Supplements",Product Page,5
+1755,Anjali Verma,53,Male,High,One-time,New,Chennai,Fitness Enthusiast,Health Supplements,8,40,7,"Electronics, Outdoor Gear",Category Page,1
+1756,Suresh Iyer,51,Male,High,One-time,New,Bangalore,Bargain Hunter,Home Appliances,8,49,10,Fitness Equipment,Category Page,2
+1757,Kavita Joshi,44,Female,Low,One-time,Lost,Kolkata,Adventure Seeker,Electronics,17,15,9,"Outdoor Gear, Fitness Equipment",Product Page,5
+1758,Priya Sharma,30,Male,Middle,One-time,Lost,Hyderabad,Tech Savvy,Home Appliances,8,19,2,"Clothing, Electronics, Fashion",Category Page,4
+1759,Rahul Deshmukh,60,Male,High,Occasional,Lost,Kolkata,Luxury Shopper,Fitness Equipment,13,15,3,Fashion,Checkout,2
+1760,Suresh Iyer,60,Male,Low,One-time,Loyal,Hyderabad,Adventure Seeker,Health Supplements,4,27,5,Electronics,Category Page,2
+1761,Priya Sharma,37,Male,Low,Frequent,Lost,Chennai,Health Conscious,Electronics,9,54,1,Fashion,Product Page,4
+1762,Anjali Verma,34,Female,High,Frequent,Loyal,Ahmedabad,Fitness Enthusiast,Home Appliances,11,5,8,"Electronics, Clothing, Home Appliances",Checkout,4
+1763,Anjali Verma,52,Male,High,Occasional,Loyal,Jaipur,Health Conscious,Home Appliances,9,41,6,"Clothing, Home Appliances, Outdoor Gear",Category Page,1
+1764,Suresh Iyer,18,Male,High,One-time,Loyal,Jaipur,Adventure Seeker,Clothing,15,17,8,Electronics,Product Page,3
+1765,Priya Sharma,33,Female,Middle,Frequent,Loyal,Mumbai,Luxury Shopper,Outdoor Gear,19,52,6,"Fashion, Fitness Equipment, Electronics",Checkout,4
+1766,Amit Patel,46,Female,Low,Occasional,Lost,Pune,Luxury Shopper,Fitness Equipment,17,43,10,Home Appliances,Checkout,2
+1767,Rajesh Kumar,20,Male,Middle,Frequent,New,Hyderabad,Luxury Shopper,Electronics,4,10,9,"Home Appliances, Outdoor Gear",Checkout,1
+1768,Priya Sharma,19,Female,Low,Frequent,New,Hyderabad,Bargain Hunter,Home Appliances,18,12,9,Clothing,Product Page,3
+1769,Amit Patel,45,Female,Middle,Frequent,Loyal,Nagpur,Bargain Hunter,Fitness Equipment,16,59,7,"Electronics, Outdoor Gear, Fitness Equipment",Category Page,5
+1770,Amit Patel,28,Female,Middle,Occasional,New,Nagpur,Adventure Seeker,Home Appliances,3,16,6,"Fashion, Electronics, Home Appliances",Category Page,1
+1771,Rahul Deshmukh,31,Male,High,One-time,Lost,Kolkata,Luxury Shopper,Home Appliances,5,5,1,Home Appliances,Category Page,3
+1772,Rajesh Kumar,31,Female,High,Frequent,New,Jaipur,Luxury Shopper,Clothing,16,24,9,"Clothing, Electronics",Checkout,1
+1773,Vikram Reddy,29,Male,High,Frequent,Loyal,Chennai,Adventure Seeker,Clothing,20,20,3,"Clothing, Home Appliances",Product Page,3
+1774,Neha Gupta,47,Male,High,Frequent,Lost,Jaipur,Fitness Enthusiast,Fitness Equipment,11,12,1,"Outdoor Gear, Electronics, Home Appliances",Product Page,4
+1775,Vikram Reddy,52,Male,High,One-time,Lost,Nagpur,Bargain Hunter,Fashion,5,33,4,Home Appliances,Category Page,1
+1776,Pooja Mehta,49,Male,Middle,Occasional,Lost,Pune,Bargain Hunter,Health Supplements,6,35,2,"Electronics, Outdoor Gear, Home Appliances",Product Page,3
+1777,Neha Gupta,47,Female,High,Occasional,Loyal,Mumbai,Fitness Enthusiast,Clothing,4,40,5,Health Supplements,Checkout,5
+1778,Anjali Verma,37,Female,High,Frequent,Loyal,Mumbai,Tech Savvy,Electronics,15,52,5,"Clothing, Fitness Equipment",Category Page,5
+1779,Amit Patel,58,Male,Low,Occasional,New,Nagpur,Tech Savvy,Home Appliances,17,53,1,"Fashion, Fitness Equipment",Product Page,1
+1780,Priya Sharma,42,Female,Middle,Occasional,Loyal,Nagpur,Tech Savvy,Clothing,16,19,8,Electronics,Product Page,4
+1781,Priya Sharma,59,Female,Low,One-time,Loyal,Bangalore,Bargain Hunter,Fashion,7,54,7,"Home Appliances, Clothing, Electronics",Category Page,2
+1782,Suresh Iyer,29,Male,Middle,Frequent,Loyal,Jaipur,Tech Savvy,Health Supplements,16,28,8,Electronics,Checkout,1
+1783,Amit Patel,28,Female,Middle,Occasional,Lost,Pune,Tech Savvy,Home Appliances,17,31,5,Outdoor Gear,Category Page,5
+1784,Kavita Joshi,22,Male,High,One-time,Lost,Hyderabad,Tech Savvy,Fashion,4,54,3,Fitness Equipment,Checkout,3
+1785,Kavita Joshi,23,Male,Middle,One-time,Loyal,Pune,Adventure Seeker,Health Supplements,11,47,9,"Electronics, Fitness Equipment",Product Page,5
+1786,Neha Gupta,52,Female,Middle,One-time,Lost,Mumbai,Health Conscious,Fitness Equipment,8,46,7,Electronics,Category Page,4
+1787,Anjali Verma,48,Female,High,One-time,Loyal,Jaipur,Luxury Shopper,Fitness Equipment,8,35,9,"Health Supplements, Outdoor Gear, Fitness Equipment",Category Page,1
+1788,Rahul Deshmukh,52,Male,Low,Frequent,Lost,Bangalore,Fitness Enthusiast,Fashion,3,23,5,Health Supplements,Product Page,4
+1789,Kavita Joshi,53,Female,Middle,Frequent,Lost,Chennai,Luxury Shopper,Fashion,15,6,6,Fashion,Category Page,5
+1790,Suresh Iyer,28,Female,High,Frequent,Loyal,Delhi,Fashion Enthusiast,Fashion,4,53,7,"Clothing, Electronics, Fitness Equipment",Checkout,3
+1791,Kavita Joshi,22,Male,High,Occasional,Loyal,Ahmedabad,Fitness Enthusiast,Outdoor Gear,13,35,3,"Outdoor Gear, Fashion, Fitness Equipment",Category Page,2
+1792,Anjali Verma,42,Female,High,Frequent,New,Bangalore,Luxury Shopper,Fashion,5,51,5,"Outdoor Gear, Home Appliances",Checkout,3
+1793,Kavita Joshi,44,Female,Low,Occasional,Lost,Jaipur,Tech Savvy,Electronics,12,58,7,"Health Supplements, Fitness Equipment",Category Page,3
+1794,Priya Sharma,23,Male,Low,Occasional,New,Kolkata,Tech Savvy,Fitness Equipment,7,56,8,"Outdoor Gear, Electronics",Product Page,5
+1795,Priya Sharma,55,Female,Low,Occasional,Lost,Pune,Adventure Seeker,Health Supplements,11,43,2,"Outdoor Gear, Electronics, Fashion",Product Page,4
+1796,Priya Sharma,36,Male,High,Frequent,Lost,Kolkata,Adventure Seeker,Health Supplements,9,29,1,"Outdoor Gear, Fitness Equipment",Product Page,3
+1797,Suresh Iyer,50,Male,Middle,Occasional,Loyal,Nagpur,Fitness Enthusiast,Home Appliances,13,17,6,"Health Supplements, Outdoor Gear",Checkout,5
+1798,Pooja Mehta,44,Female,High,Frequent,New,Bangalore,Luxury Shopper,Clothing,6,48,6,"Electronics, Home Appliances",Checkout,1
+1799,Anjali Verma,21,Female,Middle,Frequent,Lost,Ahmedabad,Luxury Shopper,Fitness Equipment,4,22,2,"Home Appliances, Clothing",Checkout,4
+1800,Neha Gupta,43,Male,High,Occasional,Lost,Jaipur,Adventure Seeker,Home Appliances,10,42,1,"Fitness Equipment, Clothing, Outdoor Gear",Checkout,1
+1801,Amit Patel,18,Female,Middle,Frequent,New,Kolkata,Health Conscious,Electronics,15,14,9,"Clothing, Health Supplements",Product Page,1
+1802,Amit Patel,41,Female,High,Occasional,Lost,Chennai,Tech Savvy,Fitness Equipment,9,56,4,Fitness Equipment,Category Page,5
+1803,Pooja Mehta,43,Female,Middle,Occasional,New,Delhi,Bargain Hunter,Home Appliances,4,55,1,"Outdoor Gear, Electronics",Category Page,2
+1804,Kavita Joshi,31,Female,Low,One-time,New,Hyderabad,Luxury Shopper,Outdoor Gear,12,6,8,Home Appliances,Product Page,4
+1805,Pooja Mehta,20,Male,High,One-time,New,Pune,Tech Savvy,Electronics,8,42,8,"Electronics, Home Appliances, Health Supplements",Checkout,4
+1806,Vikram Reddy,46,Male,High,Occasional,Loyal,Chennai,Health Conscious,Outdoor Gear,20,48,10,"Outdoor Gear, Home Appliances, Health Supplements",Checkout,5
+1807,Neha Gupta,41,Female,Low,One-time,Lost,Nagpur,Adventure Seeker,Fitness Equipment,9,41,3,"Health Supplements, Electronics",Category Page,4
+1808,Suresh Iyer,24,Female,Middle,Occasional,Loyal,Jaipur,Fitness Enthusiast,Fitness Equipment,20,19,2,"Clothing, Health Supplements",Category Page,5
+1809,Rajesh Kumar,19,Female,Middle,Occasional,New,Bangalore,Fitness Enthusiast,Fashion,11,37,10,Fashion,Checkout,5
+1810,Anjali Verma,58,Male,High,One-time,Loyal,Pune,Fitness Enthusiast,Fashion,5,60,5,"Home Appliances, Fitness Equipment",Category Page,5
+1811,Priya Sharma,21,Female,Middle,One-time,Lost,Ahmedabad,Fashion Enthusiast,Home Appliances,18,39,1,"Home Appliances, Clothing",Category Page,2
+1812,Rahul Deshmukh,21,Male,High,Frequent,Lost,Pune,Bargain Hunter,Fashion,6,23,5,"Home Appliances, Clothing",Checkout,2
+1813,Kavita Joshi,45,Male,Low,One-time,Lost,Kolkata,Bargain Hunter,Electronics,11,29,5,"Fitness Equipment, Home Appliances, Health Supplements",Checkout,5
+1814,Rajesh Kumar,54,Female,High,Frequent,Lost,Delhi,Health Conscious,Outdoor Gear,16,33,3,"Fitness Equipment, Home Appliances",Category Page,3
+1815,Rajesh Kumar,50,Female,High,One-time,Lost,Pune,Fitness Enthusiast,Outdoor Gear,4,55,2,"Outdoor Gear, Fashion",Category Page,3
+1816,Rahul Deshmukh,50,Female,Low,Occasional,Loyal,Hyderabad,Tech Savvy,Home Appliances,5,45,2,Electronics,Checkout,2
+1817,Kavita Joshi,51,Male,High,Frequent,New,Kolkata,Adventure Seeker,Fashion,10,33,3,Health Supplements,Product Page,1
+1818,Anjali Verma,32,Female,High,Occasional,Lost,Mumbai,Adventure Seeker,Outdoor Gear,4,5,8,"Home Appliances, Clothing, Outdoor Gear",Category Page,2
+1819,Neha Gupta,43,Female,Middle,One-time,Loyal,Kolkata,Luxury Shopper,Electronics,18,42,2,"Clothing, Fashion",Category Page,2
+1820,Kavita Joshi,26,Male,Middle,Occasional,New,Bangalore,Fashion Enthusiast,Outdoor Gear,11,21,5,Health Supplements,Category Page,3
+1821,Amit Patel,42,Male,Middle,Frequent,Loyal,Jaipur,Fitness Enthusiast,Outdoor Gear,9,28,3,"Electronics, Outdoor Gear, Fashion",Product Page,1
+1822,Pooja Mehta,31,Female,High,One-time,New,Jaipur,Tech Savvy,Fitness Equipment,9,31,5,"Outdoor Gear, Health Supplements, Clothing",Category Page,5
+1823,Anjali Verma,60,Female,Middle,Frequent,Lost,Kolkata,Adventure Seeker,Fitness Equipment,11,20,10,"Clothing, Electronics, Outdoor Gear",Product Page,4
+1824,Kavita Joshi,46,Male,Middle,Frequent,Lost,Chennai,Fashion Enthusiast,Electronics,19,7,4,"Home Appliances, Outdoor Gear",Checkout,2
+1825,Pooja Mehta,24,Female,Low,Frequent,Loyal,Chennai,Fashion Enthusiast,Fitness Equipment,14,33,4,"Clothing, Outdoor Gear, Fashion",Category Page,1
+1826,Kavita Joshi,37,Male,Low,Occasional,Loyal,Hyderabad,Tech Savvy,Home Appliances,12,14,6,"Outdoor Gear, Clothing",Category Page,4
+1827,Priya Sharma,52,Female,Low,Frequent,New,Ahmedabad,Adventure Seeker,Health Supplements,13,53,8,"Fitness Equipment, Home Appliances",Product Page,5
+1828,Rahul Deshmukh,33,Male,Middle,One-time,Loyal,Kolkata,Luxury Shopper,Fitness Equipment,20,11,10,"Electronics, Home Appliances",Checkout,5
+1829,Rajesh Kumar,36,Female,Middle,Frequent,New,Ahmedabad,Health Conscious,Home Appliances,12,32,6,"Home Appliances, Fashion",Category Page,1
+1830,Neha Gupta,38,Female,Middle,One-time,Loyal,Mumbai,Luxury Shopper,Clothing,16,25,4,"Fitness Equipment, Outdoor Gear",Category Page,1
+1831,Amit Patel,54,Male,High,Occasional,Loyal,Bangalore,Bargain Hunter,Home Appliances,19,6,7,"Home Appliances, Fitness Equipment",Product Page,3
+1832,Rajesh Kumar,35,Male,Low,Frequent,New,Nagpur,Health Conscious,Health Supplements,4,32,7,Fashion,Product Page,5
+1833,Anjali Verma,42,Female,High,One-time,Lost,Delhi,Fitness Enthusiast,Health Supplements,12,11,1,Fitness Equipment,Checkout,4
+1834,Rahul Deshmukh,26,Male,Middle,Frequent,New,Chennai,Tech Savvy,Clothing,19,33,8,"Fitness Equipment, Electronics",Product Page,2
+1835,Pooja Mehta,52,Male,Low,Occasional,Loyal,Ahmedabad,Adventure Seeker,Fitness Equipment,17,10,1,"Home Appliances, Fitness Equipment",Category Page,3
+1836,Amit Patel,19,Male,Low,One-time,New,Nagpur,Adventure Seeker,Fashion,5,38,10,Electronics,Checkout,1
+1837,Anjali Verma,52,Female,Low,Occasional,New,Chennai,Bargain Hunter,Health Supplements,17,54,4,"Fitness Equipment, Fashion, Health Supplements",Category Page,5
+1838,Anjali Verma,48,Female,Low,Occasional,Lost,Mumbai,Bargain Hunter,Electronics,7,7,3,"Fashion, Outdoor Gear, Fitness Equipment",Checkout,3
+1839,Suresh Iyer,29,Male,High,Frequent,Lost,Chennai,Adventure Seeker,Electronics,3,30,7,Fashion,Checkout,5
+1840,Anjali Verma,50,Female,Low,Occasional,New,Delhi,Adventure Seeker,Home Appliances,17,39,8,Outdoor Gear,Category Page,3
+1841,Rajesh Kumar,58,Female,Middle,Frequent,Loyal,Jaipur,Bargain Hunter,Electronics,3,19,3,Electronics,Category Page,2
+1842,Priya Sharma,27,Male,Low,Frequent,Lost,Delhi,Bargain Hunter,Home Appliances,14,40,4,"Fashion, Health Supplements, Fitness Equipment",Product Page,1
+1843,Rahul Deshmukh,58,Female,High,Frequent,Loyal,Kolkata,Fashion Enthusiast,Outdoor Gear,6,9,4,"Fashion, Outdoor Gear, Home Appliances",Category Page,3
+1844,Amit Patel,33,Female,Middle,Frequent,Loyal,Bangalore,Luxury Shopper,Electronics,6,17,2,Home Appliances,Category Page,1
+1845,Priya Sharma,38,Male,High,One-time,Lost,Hyderabad,Luxury Shopper,Health Supplements,11,37,5,"Fitness Equipment, Health Supplements",Product Page,5
+1846,Vikram Reddy,49,Female,High,One-time,New,Hyderabad,Luxury Shopper,Health Supplements,15,14,6,Fashion,Category Page,2
+1847,Priya Sharma,51,Female,High,One-time,New,Mumbai,Bargain Hunter,Health Supplements,6,48,1,Clothing,Category Page,1
+1848,Vikram Reddy,45,Male,High,Occasional,Loyal,Jaipur,Fashion Enthusiast,Health Supplements,18,48,7,Fitness Equipment,Category Page,5
+1849,Kavita Joshi,21,Male,Low,Frequent,Loyal,Kolkata,Tech Savvy,Clothing,17,41,7,Home Appliances,Category Page,1
+1850,Priya Sharma,51,Male,Middle,Occasional,New,Mumbai,Fashion Enthusiast,Electronics,16,42,9,Electronics,Category Page,4
+1851,Pooja Mehta,25,Female,Low,One-time,Loyal,Hyderabad,Luxury Shopper,Electronics,14,48,7,Clothing,Category Page,1
+1852,Pooja Mehta,19,Female,Low,One-time,Lost,Hyderabad,Luxury Shopper,Home Appliances,4,28,8,"Health Supplements, Fashion, Outdoor Gear",Checkout,3
+1853,Rahul Deshmukh,25,Male,High,One-time,Loyal,Kolkata,Fashion Enthusiast,Health Supplements,7,38,5,"Fitness Equipment, Health Supplements",Checkout,3
+1854,Rajesh Kumar,40,Female,Middle,Frequent,New,Nagpur,Luxury Shopper,Health Supplements,9,43,7,Outdoor Gear,Checkout,2
+1855,Rajesh Kumar,24,Female,High,One-time,New,Pune,Fitness Enthusiast,Clothing,3,48,2,"Health Supplements, Electronics",Checkout,5
+1856,Neha Gupta,48,Male,Low,Frequent,Lost,Ahmedabad,Luxury Shopper,Clothing,7,41,7,Home Appliances,Category Page,5
+1857,Pooja Mehta,23,Male,Middle,One-time,Lost,Ahmedabad,Adventure Seeker,Home Appliances,12,35,3,"Clothing, Fitness Equipment",Product Page,1
+1858,Suresh Iyer,45,Male,High,One-time,Loyal,Nagpur,Tech Savvy,Health Supplements,10,14,4,"Health Supplements, Fitness Equipment, Outdoor Gear",Category Page,2
+1859,Rahul Deshmukh,56,Male,Low,One-time,Lost,Jaipur,Bargain Hunter,Outdoor Gear,19,10,8,Fashion,Product Page,5
+1860,Amit Patel,56,Male,Middle,Frequent,Lost,Ahmedabad,Health Conscious,Outdoor Gear,13,8,1,"Home Appliances, Outdoor Gear, Clothing",Product Page,3
+1861,Rahul Deshmukh,40,Male,Low,Occasional,New,Jaipur,Fashion Enthusiast,Health Supplements,3,30,5,Fashion,Category Page,1
+1862,Suresh Iyer,55,Male,High,One-time,Loyal,Mumbai,Tech Savvy,Outdoor Gear,4,31,7,"Fitness Equipment, Outdoor Gear, Home Appliances",Category Page,1
+1863,Neha Gupta,44,Female,High,Frequent,Loyal,Bangalore,Adventure Seeker,Outdoor Gear,10,21,8,"Clothing, Fashion, Electronics",Category Page,5
+1864,Kavita Joshi,34,Female,Middle,Occasional,New,Chennai,Tech Savvy,Fashion,7,14,8,"Health Supplements, Outdoor Gear",Checkout,4
+1865,Rahul Deshmukh,32,Female,Middle,Frequent,Loyal,Bangalore,Fitness Enthusiast,Fashion,15,46,5,Health Supplements,Product Page,2
+1866,Priya Sharma,58,Female,Low,Frequent,Loyal,Chennai,Tech Savvy,Clothing,17,25,6,"Outdoor Gear, Health Supplements, Electronics",Product Page,2
+1867,Pooja Mehta,45,Female,Middle,Occasional,New,Kolkata,Bargain Hunter,Electronics,5,46,10,Health Supplements,Product Page,4
+1868,Pooja Mehta,50,Female,High,One-time,Lost,Ahmedabad,Bargain Hunter,Health Supplements,5,26,2,Electronics,Category Page,1
+1869,Neha Gupta,32,Male,High,Occasional,Lost,Ahmedabad,Fashion Enthusiast,Health Supplements,4,50,6,"Fashion, Fitness Equipment",Category Page,4
+1870,Amit Patel,31,Female,High,One-time,Loyal,Chennai,Bargain Hunter,Fitness Equipment,17,17,2,"Outdoor Gear, Clothing",Checkout,3
+1871,Anjali Verma,22,Male,High,Occasional,Lost,Delhi,Tech Savvy,Outdoor Gear,10,38,3,"Outdoor Gear, Health Supplements, Fashion",Checkout,3
+1872,Amit Patel,49,Male,High,One-time,Loyal,Nagpur,Bargain Hunter,Electronics,7,34,5,"Outdoor Gear, Health Supplements, Clothing",Checkout,1
+1873,Anjali Verma,52,Female,Middle,Frequent,Loyal,Nagpur,Bargain Hunter,Home Appliances,12,30,6,"Clothing, Outdoor Gear, Electronics",Category Page,2
+1874,Kavita Joshi,28,Male,High,One-time,Loyal,Mumbai,Fitness Enthusiast,Electronics,20,40,8,Electronics,Checkout,2
+1875,Neha Gupta,49,Male,High,Occasional,Lost,Jaipur,Bargain Hunter,Outdoor Gear,6,45,4,"Health Supplements, Outdoor Gear",Checkout,2
+1876,Rajesh Kumar,43,Male,Low,One-time,Loyal,Jaipur,Tech Savvy,Electronics,15,20,3,"Fitness Equipment, Electronics, Home Appliances",Category Page,3
+1877,Rajesh Kumar,35,Female,Middle,Frequent,Loyal,Pune,Adventure Seeker,Health Supplements,9,41,5,"Fashion, Health Supplements",Checkout,5
+1878,Anjali Verma,31,Male,High,Occasional,New,Nagpur,Luxury Shopper,Fashion,8,7,7,"Electronics, Home Appliances, Fashion",Category Page,4
+1879,Anjali Verma,33,Female,High,One-time,New,Pune,Health Conscious,Fashion,3,59,9,"Fitness Equipment, Health Supplements",Checkout,1
+1880,Anjali Verma,19,Male,Middle,One-time,Loyal,Ahmedabad,Health Conscious,Electronics,11,15,3,Health Supplements,Product Page,4
+1881,Suresh Iyer,51,Male,Middle,One-time,Lost,Hyderabad,Adventure Seeker,Home Appliances,13,35,7,Fitness Equipment,Category Page,3
+1882,Rahul Deshmukh,36,Male,Low,Frequent,Lost,Bangalore,Health Conscious,Health Supplements,3,18,7,Fashion,Checkout,4
+1883,Priya Sharma,21,Male,Low,Frequent,New,Jaipur,Fashion Enthusiast,Health Supplements,6,9,5,"Fitness Equipment, Fashion, Clothing",Checkout,1
+1884,Pooja Mehta,47,Female,Low,Frequent,Lost,Chennai,Adventure Seeker,Fitness Equipment,7,53,3,Outdoor Gear,Product Page,4
+1885,Anjali Verma,35,Female,Low,Occasional,New,Bangalore,Adventure Seeker,Fitness Equipment,18,8,3,"Outdoor Gear, Fitness Equipment",Category Page,4
+1886,Neha Gupta,37,Female,Middle,One-time,Lost,Chennai,Luxury Shopper,Fitness Equipment,11,48,10,"Clothing, Health Supplements",Checkout,4
+1887,Vikram Reddy,22,Female,Low,Frequent,Loyal,Chennai,Bargain Hunter,Electronics,7,51,8,Fashion,Category Page,1
+1888,Pooja Mehta,26,Male,Low,One-time,New,Mumbai,Fitness Enthusiast,Fitness Equipment,19,25,3,"Home Appliances, Outdoor Gear",Checkout,4
+1889,Anjali Verma,20,Female,High,One-time,New,Nagpur,Luxury Shopper,Home Appliances,16,38,6,"Electronics, Fashion, Fitness Equipment",Category Page,3
+1890,Vikram Reddy,25,Female,High,One-time,Lost,Nagpur,Health Conscious,Health Supplements,13,15,8,Clothing,Product Page,5
+1891,Vikram Reddy,38,Male,High,One-time,Loyal,Delhi,Fashion Enthusiast,Clothing,9,49,1,"Electronics, Clothing",Product Page,2
+1892,Priya Sharma,48,Male,Middle,Frequent,Lost,Jaipur,Luxury Shopper,Home Appliances,16,19,1,"Home Appliances, Clothing",Checkout,5
+1893,Vikram Reddy,56,Male,Middle,Frequent,Loyal,Bangalore,Health Conscious,Outdoor Gear,5,56,6,"Fitness Equipment, Fashion, Clothing",Product Page,5
+1894,Anjali Verma,22,Male,High,Frequent,Lost,Jaipur,Tech Savvy,Health Supplements,19,24,5,"Clothing, Home Appliances, Fitness Equipment",Checkout,1
+1895,Priya Sharma,40,Female,High,Frequent,Loyal,Kolkata,Luxury Shopper,Outdoor Gear,13,15,10,"Electronics, Clothing, Fashion",Product Page,3
+1896,Kavita Joshi,24,Male,High,Occasional,Loyal,Ahmedabad,Tech Savvy,Outdoor Gear,9,56,1,"Fashion, Clothing",Checkout,3
+1897,Suresh Iyer,41,Female,Middle,One-time,Loyal,Delhi,Fashion Enthusiast,Clothing,12,54,1,"Outdoor Gear, Electronics, Fashion",Product Page,1
+1898,Vikram Reddy,38,Female,Low,One-time,New,Jaipur,Bargain Hunter,Fitness Equipment,10,56,2,Health Supplements,Checkout,3
+1899,Vikram Reddy,37,Male,Low,Occasional,Loyal,Mumbai,Fashion Enthusiast,Fashion,11,46,9,Health Supplements,Checkout,4
+1900,Vikram Reddy,38,Female,Low,Frequent,Lost,Bangalore,Health Conscious,Clothing,17,35,6,"Electronics, Clothing, Fitness Equipment",Category Page,3
+1901,Suresh Iyer,26,Female,Middle,Occasional,Lost,Hyderabad,Tech Savvy,Electronics,4,43,4,"Outdoor Gear, Fashion, Clothing",Product Page,4
+1902,Rajesh Kumar,54,Male,Low,Occasional,Loyal,Nagpur,Adventure Seeker,Fitness Equipment,17,35,10,"Fashion, Outdoor Gear",Category Page,3
+1903,Rahul Deshmukh,46,Female,Low,One-time,New,Chennai,Health Conscious,Fitness Equipment,15,20,4,"Outdoor Gear, Home Appliances",Category Page,1
+1904,Kavita Joshi,28,Male,Low,Frequent,Loyal,Ahmedabad,Adventure Seeker,Fitness Equipment,15,47,1,"Outdoor Gear, Electronics",Product Page,5
+1905,Amit Patel,21,Male,Low,One-time,New,Chennai,Luxury Shopper,Health Supplements,9,42,9,Electronics,Category Page,3
+1906,Anjali Verma,60,Female,Low,Occasional,New,Mumbai,Health Conscious,Health Supplements,10,38,7,"Fitness Equipment, Clothing, Home Appliances",Category Page,5
+1907,Pooja Mehta,27,Male,Middle,One-time,Lost,Chennai,Luxury Shopper,Fashion,11,20,1,"Fashion, Electronics",Product Page,4
+1908,Kavita Joshi,44,Female,Middle,One-time,New,Nagpur,Health Conscious,Fashion,4,9,8,"Fashion, Health Supplements",Product Page,1
+1909,Pooja Mehta,23,Male,High,Frequent,New,Delhi,Adventure Seeker,Electronics,14,23,1,Fashion,Category Page,2
+1910,Neha Gupta,21,Female,High,Occasional,Loyal,Delhi,Fashion Enthusiast,Electronics,12,47,4,"Fashion, Clothing",Checkout,3
+1911,Pooja Mehta,29,Female,Low,Occasional,Loyal,Nagpur,Bargain Hunter,Fashion,3,32,9,"Home Appliances, Outdoor Gear, Health Supplements",Category Page,4
+1912,Kavita Joshi,46,Female,Middle,One-time,Lost,Bangalore,Fashion Enthusiast,Health Supplements,15,32,10,Outdoor Gear,Checkout,1
+1913,Suresh Iyer,59,Male,Low,Occasional,New,Chennai,Fitness Enthusiast,Outdoor Gear,13,20,10,Outdoor Gear,Category Page,5
+1914,Priya Sharma,56,Male,Low,One-time,Loyal,Mumbai,Fitness Enthusiast,Electronics,9,52,7,Fashion,Product Page,2
+1915,Anjali Verma,34,Male,High,Frequent,Lost,Delhi,Luxury Shopper,Home Appliances,8,37,6,"Clothing, Fitness Equipment",Checkout,3
+1916,Pooja Mehta,50,Male,Low,One-time,Loyal,Bangalore,Fashion Enthusiast,Home Appliances,15,36,5,"Home Appliances, Health Supplements, Outdoor Gear",Category Page,5
+1917,Pooja Mehta,26,Female,Middle,Frequent,New,Hyderabad,Luxury Shopper,Fashion,11,42,8,"Health Supplements, Electronics",Checkout,5
+1918,Neha Gupta,28,Male,Low,One-time,New,Hyderabad,Luxury Shopper,Fitness Equipment,15,16,5,"Health Supplements, Clothing",Category Page,3
+1919,Rahul Deshmukh,24,Female,High,One-time,Lost,Ahmedabad,Luxury Shopper,Home Appliances,16,28,5,Health Supplements,Checkout,2
+1920,Kavita Joshi,51,Female,Low,Occasional,Loyal,Nagpur,Bargain Hunter,Clothing,3,49,5,"Outdoor Gear, Electronics, Clothing",Category Page,3
+1921,Anjali Verma,39,Female,Low,Frequent,Loyal,Hyderabad,Luxury Shopper,Fitness Equipment,20,37,6,"Home Appliances, Fitness Equipment",Product Page,2
+1922,Pooja Mehta,18,Male,High,One-time,Loyal,Pune,Fashion Enthusiast,Fashion,14,58,5,"Fashion, Clothing",Checkout,5
+1923,Amit Patel,51,Female,Low,Occasional,New,Kolkata,Health Conscious,Electronics,8,60,4,"Fitness Equipment, Clothing",Category Page,1
+1924,Rajesh Kumar,53,Male,Low,One-time,Lost,Delhi,Adventure Seeker,Outdoor Gear,10,47,5,Clothing,Checkout,2
+1925,Neha Gupta,48,Male,High,Occasional,Loyal,Pune,Health Conscious,Electronics,7,8,10,Outdoor Gear,Product Page,4
+1926,Amit Patel,29,Male,Low,Frequent,Lost,Ahmedabad,Luxury Shopper,Fashion,12,43,4,"Clothing, Home Appliances",Checkout,3
+1927,Vikram Reddy,24,Male,High,One-time,New,Chennai,Tech Savvy,Fashion,18,29,3,"Electronics, Home Appliances",Checkout,1
+1928,Rahul Deshmukh,23,Male,Low,Frequent,Loyal,Hyderabad,Adventure Seeker,Health Supplements,3,13,5,Fashion,Product Page,2
+1929,Priya Sharma,54,Male,High,One-time,New,Pune,Health Conscious,Outdoor Gear,9,8,7,Outdoor Gear,Checkout,5
+1930,Anjali Verma,38,Male,Low,One-time,Loyal,Bangalore,Adventure Seeker,Health Supplements,6,13,7,Electronics,Product Page,2
+1931,Amit Patel,42,Male,Low,One-time,New,Ahmedabad,Tech Savvy,Health Supplements,8,17,6,Electronics,Product Page,4
+1932,Amit Patel,25,Female,Middle,Occasional,Loyal,Delhi,Adventure Seeker,Health Supplements,19,57,4,Clothing,Product Page,4
+1933,Suresh Iyer,47,Male,Low,Frequent,Lost,Mumbai,Luxury Shopper,Clothing,9,37,8,Fitness Equipment,Category Page,3
+1934,Pooja Mehta,50,Male,Low,Occasional,Lost,Hyderabad,Fitness Enthusiast,Health Supplements,8,36,5,"Home Appliances, Fitness Equipment",Product Page,5
+1935,Amit Patel,49,Female,Low,One-time,Loyal,Kolkata,Bargain Hunter,Fashion,19,43,4,"Electronics, Home Appliances, Outdoor Gear",Checkout,1
+1936,Suresh Iyer,44,Female,High,Frequent,New,Hyderabad,Adventure Seeker,Clothing,16,30,4,Health Supplements,Product Page,2
+1937,Amit Patel,26,Male,Low,One-time,New,Jaipur,Health Conscious,Fashion,20,59,9,"Electronics, Outdoor Gear, Fashion",Product Page,2
+1938,Amit Patel,20,Male,Low,One-time,New,Chennai,Luxury Shopper,Home Appliances,7,58,9,"Fashion, Health Supplements, Electronics",Checkout,4
+1939,Kavita Joshi,46,Female,Low,One-time,Loyal,Hyderabad,Luxury Shopper,Electronics,10,6,3,"Fashion, Outdoor Gear",Category Page,4
+1940,Anjali Verma,49,Male,Low,Occasional,Lost,Pune,Tech Savvy,Outdoor Gear,10,31,4,"Outdoor Gear, Health Supplements, Electronics",Product Page,2
+1941,Rajesh Kumar,50,Female,Middle,One-time,Lost,Hyderabad,Bargain Hunter,Electronics,20,41,5,"Outdoor Gear, Clothing",Product Page,4
+1942,Vikram Reddy,45,Female,High,Occasional,Lost,Delhi,Tech Savvy,Electronics,14,51,3,"Home Appliances, Electronics, Health Supplements",Checkout,3
+1943,Kavita Joshi,30,Female,Low,Occasional,Lost,Ahmedabad,Health Conscious,Fashion,13,34,1,"Outdoor Gear, Fitness Equipment, Clothing",Checkout,1
+1944,Pooja Mehta,22,Male,Middle,Occasional,New,Ahmedabad,Luxury Shopper,Fashion,8,42,4,"Outdoor Gear, Fashion",Category Page,1
+1945,Rahul Deshmukh,35,Male,Low,Frequent,Lost,Chennai,Fitness Enthusiast,Electronics,10,30,5,"Electronics, Fitness Equipment",Product Page,5
+1946,Rahul Deshmukh,24,Female,Middle,Frequent,New,Jaipur,Tech Savvy,Fitness Equipment,7,30,7,"Fitness Equipment, Health Supplements",Checkout,1
+1947,Pooja Mehta,25,Female,Low,Frequent,New,Jaipur,Health Conscious,Fitness Equipment,11,20,6,Clothing,Product Page,2
+1948,Pooja Mehta,45,Male,Middle,One-time,New,Delhi,Adventure Seeker,Home Appliances,17,47,9,"Health Supplements, Fashion",Product Page,5
+1949,Suresh Iyer,30,Female,Middle,One-time,New,Bangalore,Fitness Enthusiast,Fashion,15,20,10,"Home Appliances, Health Supplements",Category Page,2
+1950,Anjali Verma,45,Female,Middle,One-time,Lost,Hyderabad,Fashion Enthusiast,Fashion,6,15,6,Electronics,Product Page,5
+1951,Suresh Iyer,24,Female,Low,One-time,New,Kolkata,Health Conscious,Health Supplements,12,53,1,Health Supplements,Category Page,5
+1952,Suresh Iyer,19,Female,High,Frequent,Loyal,Nagpur,Health Conscious,Fitness Equipment,8,51,4,"Electronics, Outdoor Gear",Category Page,4
+1953,Rajesh Kumar,56,Male,High,Occasional,Loyal,Chennai,Bargain Hunter,Home Appliances,3,45,2,"Clothing, Electronics",Checkout,5
+1954,Kavita Joshi,25,Female,Low,One-time,Lost,Nagpur,Adventure Seeker,Fashion,14,37,5,Electronics,Product Page,3
+1955,Kavita Joshi,60,Male,Low,Occasional,Loyal,Ahmedabad,Luxury Shopper,Health Supplements,4,27,8,Fitness Equipment,Checkout,1
+1956,Pooja Mehta,49,Male,Low,One-time,New,Bangalore,Fitness Enthusiast,Electronics,3,16,8,"Outdoor Gear, Home Appliances",Product Page,2
+1957,Priya Sharma,54,Female,Middle,Frequent,New,Nagpur,Bargain Hunter,Home Appliances,18,57,4,"Health Supplements, Fitness Equipment",Product Page,4
+1958,Priya Sharma,44,Male,High,Frequent,Loyal,Mumbai,Tech Savvy,Fitness Equipment,19,35,8,"Health Supplements, Electronics",Checkout,5
+1959,Rajesh Kumar,57,Female,High,One-time,Lost,Chennai,Tech Savvy,Clothing,17,51,5,"Home Appliances, Fashion, Clothing",Product Page,2
+1960,Kavita Joshi,22,Male,Middle,One-time,Loyal,Ahmedabad,Adventure Seeker,Electronics,7,50,8,"Fitness Equipment, Home Appliances, Outdoor Gear",Category Page,1
+1961,Anjali Verma,31,Male,Low,Frequent,Loyal,Bangalore,Fashion Enthusiast,Home Appliances,6,32,4,Fashion,Category Page,4
+1962,Rajesh Kumar,34,Female,Middle,Frequent,Lost,Bangalore,Fashion Enthusiast,Outdoor Gear,13,8,7,"Health Supplements, Fitness Equipment",Category Page,3
+1963,Vikram Reddy,33,Female,Middle,Frequent,New,Ahmedabad,Luxury Shopper,Health Supplements,10,28,5,Health Supplements,Product Page,4
+1964,Rajesh Kumar,44,Male,Middle,Frequent,Loyal,Ahmedabad,Health Conscious,Clothing,17,50,3,"Clothing, Electronics",Checkout,2
+1965,Neha Gupta,40,Male,Middle,Frequent,New,Ahmedabad,Fitness Enthusiast,Home Appliances,11,36,2,"Health Supplements, Outdoor Gear, Fashion",Checkout,1
+1966,Amit Patel,32,Female,Middle,One-time,New,Mumbai,Tech Savvy,Home Appliances,3,39,4,"Health Supplements, Fashion, Electronics",Category Page,1
+1967,Priya Sharma,49,Female,Middle,Occasional,Lost,Pune,Luxury Shopper,Clothing,18,23,9,"Electronics, Outdoor Gear, Clothing",Product Page,1
+1968,Rajesh Kumar,29,Female,High,Occasional,Lost,Mumbai,Tech Savvy,Electronics,12,23,4,"Fitness Equipment, Home Appliances",Category Page,3
+1969,Neha Gupta,38,Female,Middle,Frequent,New,Jaipur,Tech Savvy,Electronics,6,43,3,"Clothing, Fashion, Fitness Equipment",Category Page,4
+1970,Rajesh Kumar,55,Male,Low,Frequent,New,Jaipur,Luxury Shopper,Fashion,15,10,10,"Home Appliances, Fashion, Outdoor Gear",Product Page,3
+1971,Rahul Deshmukh,24,Male,Low,Frequent,Lost,Bangalore,Health Conscious,Fitness Equipment,14,57,5,"Fashion, Health Supplements, Outdoor Gear",Product Page,1
+1972,Kavita Joshi,24,Male,Middle,Frequent,Lost,Pune,Luxury Shopper,Clothing,3,57,5,Electronics,Checkout,4
+1973,Rajesh Kumar,52,Female,Low,Occasional,Loyal,Delhi,Adventure Seeker,Home Appliances,9,58,2,Fashion,Product Page,1
+1974,Rajesh Kumar,39,Male,Middle,Occasional,Lost,Ahmedabad,Health Conscious,Outdoor Gear,5,35,4,Electronics,Checkout,5
+1975,Rajesh Kumar,30,Male,Middle,Frequent,Lost,Kolkata,Bargain Hunter,Electronics,14,41,10,Fashion,Checkout,2
+1976,Priya Sharma,49,Female,Low,Occasional,Loyal,Mumbai,Tech Savvy,Fashion,17,12,5,"Health Supplements, Home Appliances",Product Page,2
+1977,Neha Gupta,53,Female,Middle,One-time,New,Delhi,Health Conscious,Clothing,14,24,2,"Fashion, Fitness Equipment, Home Appliances",Product Page,3
+1978,Pooja Mehta,18,Male,Low,Occasional,New,Nagpur,Fashion Enthusiast,Fitness Equipment,20,7,6,"Fashion, Electronics, Clothing",Product Page,5
+1979,Rajesh Kumar,52,Male,Low,One-time,Lost,Chennai,Bargain Hunter,Health Supplements,16,47,2,"Electronics, Home Appliances, Outdoor Gear",Checkout,3
+1980,Suresh Iyer,24,Female,Low,Occasional,New,Chennai,Luxury Shopper,Clothing,18,13,10,"Clothing, Outdoor Gear, Electronics",Category Page,1
+1981,Kavita Joshi,21,Male,Low,One-time,Loyal,Nagpur,Fitness Enthusiast,Fashion,6,57,8,Home Appliances,Checkout,3
+1982,Rajesh Kumar,55,Female,Middle,One-time,Loyal,Bangalore,Adventure Seeker,Fitness Equipment,15,60,2,Electronics,Product Page,1
+1983,Pooja Mehta,18,Female,Middle,Occasional,New,Bangalore,Health Conscious,Clothing,18,24,9,Outdoor Gear,Category Page,2
+1984,Kavita Joshi,34,Female,Low,One-time,Lost,Jaipur,Adventure Seeker,Outdoor Gear,8,11,10,"Electronics, Health Supplements",Product Page,3
+1985,Pooja Mehta,59,Male,Middle,Frequent,Lost,Bangalore,Health Conscious,Clothing,19,11,2,"Fitness Equipment, Electronics, Clothing",Checkout,2
+1986,Rahul Deshmukh,22,Female,Middle,Occasional,Lost,Mumbai,Health Conscious,Home Appliances,9,12,7,"Electronics, Home Appliances",Category Page,5
+1987,Neha Gupta,34,Male,Low,Occasional,Lost,Delhi,Bargain Hunter,Health Supplements,19,58,9,"Outdoor Gear, Home Appliances",Product Page,3
+1988,Anjali Verma,53,Male,Low,One-time,Loyal,Bangalore,Tech Savvy,Clothing,3,59,1,"Home Appliances, Fitness Equipment, Outdoor Gear",Product Page,2
+1989,Suresh Iyer,48,Female,High,One-time,Lost,Jaipur,Tech Savvy,Fashion,10,10,5,Fitness Equipment,Category Page,1
+1990,Rajesh Kumar,28,Female,Middle,One-time,New,Bangalore,Bargain Hunter,Outdoor Gear,3,57,10,Fashion,Product Page,3
+1991,Rahul Deshmukh,42,Female,Middle,One-time,Loyal,Kolkata,Fitness Enthusiast,Health Supplements,5,36,1,"Electronics, Outdoor Gear",Checkout,5
+1992,Anjali Verma,54,Male,Middle,One-time,Loyal,Chennai,Fitness Enthusiast,Outdoor Gear,4,7,9,"Clothing, Fitness Equipment",Product Page,4
+1993,Anjali Verma,27,Female,Low,One-time,Loyal,Pune,Fashion Enthusiast,Health Supplements,4,12,5,"Electronics, Outdoor Gear",Product Page,3
+1994,Rajesh Kumar,25,Male,High,One-time,Lost,Kolkata,Tech Savvy,Fashion,17,25,5,Electronics,Category Page,5
+1995,Anjali Verma,39,Male,Middle,Frequent,New,Hyderabad,Fitness Enthusiast,Home Appliances,4,22,8,"Fitness Equipment, Electronics",Checkout,1
+1996,Anjali Verma,32,Male,High,Occasional,Lost,Delhi,Fitness Enthusiast,Home Appliances,14,27,1,"Electronics, Fitness Equipment, Fashion",Category Page,5
+1997,Neha Gupta,21,Male,Middle,Frequent,New,Nagpur,Tech Savvy,Fashion,9,41,10,"Fashion, Clothing",Category Page,5
+1998,Neha Gupta,23,Male,High,Occasional,Lost,Nagpur,Tech Savvy,Outdoor Gear,11,19,9,"Home Appliances, Fitness Equipment",Checkout,2
+1999,Kavita Joshi,59,Male,High,One-time,New,Kolkata,Fitness Enthusiast,Electronics,19,13,2,"Fashion, Electronics",Product Page,3
+2000,Pooja Mehta,54,Male,High,Frequent,Loyal,Mumbai,Fitness Enthusiast,Clothing,20,44,8,"Clothing, Home Appliances",Checkout,4
